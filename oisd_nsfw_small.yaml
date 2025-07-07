@@ -1,9 +1,9 @@
-# Version: 202507061027
+# Version: 202507070024
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20867
-# Last modified: 2025-07-06T10:27:40+0000
+# Entries: 20870
+# Last modified: 2025-07-07T00:24:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8077,6 +8077,7 @@ payload:
   - DOMAIN-SUFFIX,igayporn.tv
   - DOMAIN-SUFFIX,igaytube.tv
   - DOMAIN-SUFFIX,igayvideos.tv
+  - DOMAIN-SUFFIX,igfap.com
   - DOMAIN-SUFFIX,iglives.tv
   - DOMAIN-SUFFIX,igodesu.tv
   - DOMAIN-SUFFIX,igotube.com
@@ -17443,6 +17444,7 @@ payload:
   - DOMAIN-SUFFIX,tickzoo.tv
   - DOMAIN-SUFFIX,tiffany.ca
   - DOMAIN-SUFFIX,tightassanal.com
+  - DOMAIN-SUFFIX,tightassclips.com
   - DOMAIN-SUFFIX,tightasspics.com
   - DOMAIN-SUFFIX,tightbaldpussy.com
   - DOMAIN-SUFFIX,tightpantiesporn.com
@@ -19505,6 +19507,7 @@ payload:
   - DOMAIN-SUFFIX,xn--72c9abh1f8ad1lzc.online
   - DOMAIN-SUFFIX,xn--72c9ah5d5a0h3a5a.com
   - DOMAIN-SUFFIX,xn--72c9aha4c5a2bbd5ood.com
+  - DOMAIN-SUFFIX,xn--72cc8aul0b4dd5cp2e1foa6eqk.com
   - DOMAIN-SUFFIX,xn--72ci4bj1f8ad1lzc.com
   - DOMAIN-SUFFIX,xn--72cz3a0d5ec.com
   - DOMAIN-SUFFIX,xn--72czbawn3i1b1dydua7dub.tv
