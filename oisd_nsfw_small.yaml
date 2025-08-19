@@ -1,9 +1,9 @@
-# Version: 202508181030
+# Version: 202508181531
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21535
-# Last modified: 2025-08-18T10:30:16+0000
+# Entries: 21537
+# Last modified: 2025-08-18T15:31:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9902,6 +9902,7 @@ payload:
   - DOMAIN-SUFFIX,laidhub.com
   - DOMAIN-SUFFIX,laiporn.com
   - DOMAIN-SUFFIX,lamalinks.com
+  - DOMAIN-SUFFIX,lamalinks.live
   - DOMAIN-SUFFIX,lameladieva.net
   - DOMAIN-SUFFIX,lanasbigboobs.com
   - DOMAIN-SUFFIX,landrover.com
@@ -10684,6 +10685,7 @@ payload:
   - DOMAIN-SUFFIX,masked.love
   - DOMAIN-SUFFIX,massage-manhattan-club.com
   - DOMAIN-SUFFIX,massage-xxx.su
+  - DOMAIN-SUFFIX,massage123.ch
   - DOMAIN-SUFFIX,massagehall.cz
   - DOMAIN-SUFFIX,massageplanet.net
   - DOMAIN-SUFFIX,massagerepublic.com
