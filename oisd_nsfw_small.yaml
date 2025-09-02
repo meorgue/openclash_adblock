@@ -1,9 +1,9 @@
-# Version: 202508310526
+# Version: 202509011744
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21171
-# Last modified: 2025-08-31T05:26:12+0000
+# Entries: 21170
+# Last modified: 2025-09-01T17:44:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9306,7 +9306,6 @@ payload:
   - DOMAIN-SUFFIX,joylovedolls.com
   - DOMAIN-SUFFIX,joymii.com
   - DOMAIN-SUFFIX,joymiihub.com
-  - DOMAIN-SUFFIX,joyn.de
   - DOMAIN-SUFFIX,joyourself.com
   - DOMAIN-SUFFIX,joyporn.me
   - DOMAIN-SUFFIX,joyreactor.com
