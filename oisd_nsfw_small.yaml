@@ -1,9 +1,9 @@
-# Version: 202509292226
+# Version: 202509300325
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21322
-# Last modified: 2025-09-29T22:26:02+0000
+# Entries: 21324
+# Last modified: 2025-09-30T03:25:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8740,6 +8740,7 @@ payload:
   - DOMAIN-SUFFIX,irmaosdotados.com.br
   - DOMAIN-SUFFIX,irontechdoll.com
   - DOMAIN-SUFFIX,irxclip.com
+  - DOMAIN-SUFFIX,isalna.com
   - DOMAIN-SUFFIX,iseekgirls.com
   - DOMAIN-SUFFIX,isekaitube.com
   - DOMAIN-SUFFIX,isexsex.com
@@ -19867,6 +19868,7 @@ payload:
   - DOMAIN-SUFFIX,xn--12c3bn1nma.net
   - DOMAIN-SUFFIX,xn--12cf1czch4oyb.com
   - DOMAIN-SUFFIX,xn--12cl7cj0bzc2b5hqa5fza.com
+  - DOMAIN-SUFFIX,xn--12cl7cj4a8c1bl5l7c.net
   - DOMAIN-SUFFIX,xn--12cmb2cha4rsb7e.com
   - DOMAIN-SUFFIX,xn--18-3qi1el7gxb7izc.com
   - DOMAIN-SUFFIX,xn--18-3qi3czap1ixbe1f6j.com
