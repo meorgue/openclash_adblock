@@ -1,9 +1,9 @@
-# Version: 202510062028
+# Version: 202510070927
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21074
-# Last modified: 2025-10-06T20:28:05+0000
+# Last modified: 2025-10-07T09:27:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16117,7 +16117,6 @@ payload:
   - DOMAIN-SUFFIX,sexxseznamka.cz
   - DOMAIN-SUFFIX,sexxsurgt.life
   - DOMAIN-SUFFIX,sexxvolg.live
-  - DOMAIN-SUFFIX,sexxvolg.net
   - DOMAIN-SUFFIX,sexxxarabi.com
   - DOMAIN-SUFFIX,sexxxaraby.com
   - DOMAIN-SUFFIX,sexxxgif.com
@@ -20467,6 +20466,7 @@ payload:
   - DOMAIN-SUFFIX,xxxjmp.com
   - DOMAIN-SUFFIX,xxxjojo.com
   - DOMAIN-SUFFIX,xxxjug.com
+  - DOMAIN-SUFFIX,xxxkabos.com
   - DOMAIN-SUFFIX,xxxkai.com
   - DOMAIN-SUFFIX,xxxkama.com
   - DOMAIN-SUFFIX,xxxkeeper.com
