@@ -1,9 +1,9 @@
-# Version: 202510110023
+# Version: 202510111126
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20875
-# Last modified: 2025-10-11T00:23:14+0000
+# Entries: 20877
+# Last modified: 2025-10-11T11:26:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2306,6 +2306,7 @@ payload:
   - DOMAIN-SUFFIX,bigbuttz.com
   - DOMAIN-SUFFIX,bigcdn.cc
   - DOMAIN-SUFFIX,bigchlen.net
+  - DOMAIN-SUFFIX,bigchurch.com
   - DOMAIN-SUFFIX,bigclosetr.us
   - DOMAIN-SUFFIX,bigcock.top
   - DOMAIN-SUFFIX,bigdaddygay.com
@@ -11134,6 +11135,7 @@ payload:
   - DOMAIN-SUFFIX,mult-porno.app
   - DOMAIN-SUFFIX,mult-porno.page
   - DOMAIN-SUFFIX,mult-porno.vip
+  - DOMAIN-SUFFIX,mult-porno.world
   - DOMAIN-SUFFIX,mult-xxx.top
   - DOMAIN-SUFFIX,mult34.com
   - DOMAIN-SUFFIX,multcool.com
@@ -14508,6 +14510,7 @@ payload:
   - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,quickflirt.com
   - DOMAIN-SUFFIX,quickmeme.com
+  - DOMAIN-SUFFIX,quienhabla.mx
   - DOMAIN-SUFFIX,quizilla.com
   - DOMAIN-SUFFIX,qwbabes.com
   - DOMAIN-SUFFIX,qwe.wiki
@@ -20289,7 +20292,6 @@ payload:
   - DOMAIN-SUFFIX,xxxkoche.net
   - DOMAIN-SUFFIX,xxxl-dev.at
   - DOMAIN-SUFFIX,xxxl.tube
-  - DOMAIN-SUFFIX,xxxlbs.com
   - DOMAIN-SUFFIX,xxxlib.mobi
   - DOMAIN-SUFFIX,xxxlib.ru
   - DOMAIN-SUFFIX,xxxlibz.com
