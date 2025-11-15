@@ -1,9 +1,9 @@
-# Version: 202511140825
+# Version: 202511141807
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20099
-# Last modified: 2025-11-14T08:25:14+0000
+# Entries: 20101
+# Last modified: 2025-11-14T18:07:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2099,6 +2099,7 @@ payload:
   - DOMAIN-SUFFIX,bestthots.com
   - DOMAIN-SUFFIX,bestticino.ch
   - DOMAIN-SUFFIX,besttitstube.com
+  - DOMAIN-SUFFIX,besttrannyporn.cc
   - DOMAIN-SUFFIX,besttrannytube.com
   - DOMAIN-SUFFIX,besttrening.ru
   - DOMAIN-SUFFIX,besttwink.com
@@ -18655,6 +18656,7 @@ payload:
   - DOMAIN-SUFFIX,xhing.xyz
   - DOMAIN-SUFFIX,xhlease.world
   - DOMAIN-SUFFIX,xhlive.cam
+  - DOMAIN-SUFFIX,xhlive.net
   - DOMAIN-SUFFIX,xhlive.org
   - DOMAIN-SUFFIX,xhlive.stream
   - DOMAIN-SUFFIX,xhmoon.com
