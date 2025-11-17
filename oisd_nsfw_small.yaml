@@ -1,9 +1,9 @@
-# Version: 202511161032
+# Version: 202511161928
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 20051
-# Last modified: 2025-11-16T10:32:57+0000
+# Last modified: 2025-11-16T19:28:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2383,7 +2383,6 @@ payload:
   - DOMAIN-SUFFIX,bokepediaflix.com
   - DOMAIN-SUFFIX,bokepfree.icu
   - DOMAIN-SUFFIX,bokephdx.com
-  - DOMAIN-SUFFIX,bokephub.bond
   - DOMAIN-SUFFIX,bokephub.com
   - DOMAIN-SUFFIX,bokepid.app
   - DOMAIN-SUFFIX,bokepina.cc
@@ -14479,6 +14478,7 @@ payload:
   - DOMAIN-SUFFIX,ruxvideos.com
   - DOMAIN-SUFFIX,ruzovyslon.cz
   - DOMAIN-SUFFIX,rvolchansk.ru
+  - DOMAIN-SUFFIX,rxxxxvideos.com
   - DOMAIN-SUFFIX,rylskyart.com
   - DOMAIN-SUFFIX,ryusyutsuzousan.jp
   - DOMAIN-SUFFIX,ryuugames.com
