@@ -1,9 +1,9 @@
-# Version: 202602031731
+# Version: 202602041133
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 22997
-# Last modified: 2026-02-03T17:31:22+0000
+# Entries: 22995
+# Last modified: 2026-02-04T11:33:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -146,7 +146,6 @@ payload:
   - DOMAIN-SUFFIX,19girlstube.com
   - DOMAIN-SUFFIX,19sex.live
   - DOMAIN-SUFFIX,19yang19.com
-  - DOMAIN-SUFFIX,1a-1791.com
   - DOMAIN-SUFFIX,1a.nl
   - DOMAIN-SUFFIX,1av.to
   - DOMAIN-SUFFIX,1baiser.com
@@ -16145,7 +16144,6 @@ payload:
   - DOMAIN-SUFFIX,readfreecomics.com
   - DOMAIN-SUFFIX,readkakegurui.com
   - DOMAIN-SUFFIX,readli.net
-  - DOMAIN-SUFFIX,readly.com
   - DOMAIN-SUFFIX,readmanga.cc
   - DOMAIN-SUFFIX,readonlymind.com
   - DOMAIN-SUFFIX,readtpa.com
