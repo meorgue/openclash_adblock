@@ -1,9 +1,9 @@
-# Version: 202603042049
+# Version: 202603050503
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21426
-# Last modified: 2026-03-04T20:49:39+0000
+# Entries: 21424
+# Last modified: 2026-03-05T05:03:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10511,7 +10511,6 @@ payload:
   - DOMAIN-SUFFIX,mahoushoujobu.com
   - DOMAIN-SUFFIX,mahua.pro
   - DOMAIN-SUFFIX,maiaproape.com
-  - DOMAIN-SUFFIX,mail.bg
   - DOMAIN-SUFFIX,mainbabes.com
   - DOMAIN-SUFFIX,mainhub.com
   - DOMAIN-SUFFIX,mairovergara.com
@@ -15162,7 +15161,6 @@ payload:
   - DOMAIN-SUFFIX,rogreviews.com
   - DOMAIN-SUFFIX,roidedgoon.com
   - DOMAIN-SUFFIX,rokna.net
-  - DOMAIN-SUFFIX,rokomari.com
   - DOMAIN-SUFFIX,rokuhentai.com
   - DOMAIN-SUFFIX,roleplay.chat
   - DOMAIN-SUFFIX,roleplayer.me
