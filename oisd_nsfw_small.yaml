@@ -1,9 +1,9 @@
-# Version: 202606291524
+# Version: 202606300207
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 17710
-# Last modified: 2026-06-29T15:24:36+0000
+# Entries: 17714
+# Last modified: 2026-06-30T02:07:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2807,6 +2807,7 @@ payload:
   - DOMAIN-SUFFIX,chaturflix.cam
   - DOMAIN-SUFFIX,chaty.es
   - DOMAIN-SUFFIX,chatyou.com
+  - DOMAIN-SUFFIX,chatzona.org
   - DOMAIN-SUFFIX,chatzone.com
   - DOMAIN-SUFFIX,chaudlapin.be
   - DOMAIN-SUFFIX,check.porn
@@ -4569,6 +4570,7 @@ payload:
   - DOMAIN-SUFFIX,filmx.cyou
   - DOMAIN-SUFFIX,filmyfantasy.com
   - DOMAIN-SUFFIX,filmyfiy.foo
+  - DOMAIN-SUFFIX,filmyfly.download
   - DOMAIN-SUFFIX,filmyxxx.icu
   - DOMAIN-SUFFIX,filthnest.com
   - DOMAIN-SUFFIX,filthvana.com
@@ -12490,6 +12492,7 @@ payload:
   - DOMAIN-SUFFIX,safadasnaweb.com.br
   - DOMAIN-SUFFIX,safeboy.net
   - DOMAIN-SUFFIX,saggytitsporn.com
+  - DOMAIN-SUFFIX,sakuhentai.net
   - DOMAIN-SUFFIX,sakurajav.mobi
   - DOMAIN-SUFFIX,sakuralive.com
   - DOMAIN-SUFFIX,salosex.com
@@ -15298,6 +15301,7 @@ payload:
   - DOMAIN-SUFFIX,vidsexarabi.com
   - DOMAIN-SUFFIX,vidshare.live
   - DOMAIN-SUFFIX,vidss.com
+  - DOMAIN-SUFFIX,vidtube.tv
   - DOMAIN-SUFFIX,vidya.pics
   - DOMAIN-SUFFIX,vidz.com
   - DOMAIN-SUFFIX,vidzx.org
