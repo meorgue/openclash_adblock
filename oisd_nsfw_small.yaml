@@ -1,9 +1,9 @@
-# Version: 202608150924
+# Version: 202608151725
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21192
-# Last modified: 2026-08-15T09:24:06+0000
+# Entries: 21194
+# Last modified: 2026-08-15T17:25:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -176,6 +176,7 @@ payload:
   - DOMAIN-SUFFIX,21vv.me
   - DOMAIN-SUFFIX,22700.cn
   - DOMAIN-SUFFIX,22doll.com
+  - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,24-jav.com
   - DOMAIN-SUFFIX,24-video.com
   - DOMAIN-SUFFIX,24-video.ru
@@ -6158,6 +6159,7 @@ payload:
   - DOMAIN-SUFFIX,fucks4me.com
   - DOMAIN-SUFFIX,fucksaz.com
   - DOMAIN-SUFFIX,fucksexybabes.com
+  - DOMAIN-SUFFIX,fuckslur.wtf
   - DOMAIN-SUFFIX,fucksporn.com
   - DOMAIN-SUFFIX,fuckster.mobi
   - DOMAIN-SUFFIX,fuckteen.xxx
