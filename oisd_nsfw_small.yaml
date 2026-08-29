@@ -1,9 +1,9 @@
-# Version: 202608281620
+# Version: 202608282225
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21611
-# Last modified: 2026-08-28T16:20:23+0000
+# Entries: 21612
+# Last modified: 2026-08-28T22:25:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17442,6 +17442,7 @@ payload:
   - DOMAIN-SUFFIX,tdxflix.com
   - DOMAIN-SUFFIX,tdxflix.digital
   - DOMAIN-SUFFIX,tdxflix.fyi
+  - DOMAIN-SUFFIX,tdxflix.io
   - DOMAIN-SUFFIX,tdxflix.wiki
   - DOMAIN-SUFFIX,te-en.net
   - DOMAIN-SUFFIX,teacherpics.com
