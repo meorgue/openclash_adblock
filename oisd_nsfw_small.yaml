@@ -1,9 +1,9 @@
-# Version: 202609070106
+# Version: 202609071507
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 22296
-# Last modified: 2026-09-07T01:06:39+0000
+# Entries: 22298
+# Last modified: 2026-09-07T15:07:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -558,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,94axxa.com
   - DOMAIN-SUFFIX,94hg.cc
   - DOMAIN-SUFFIX,94intr.com
+  - DOMAIN-SUFFIX,94luso.com
   - DOMAIN-SUFFIX,94mt.cc
   - DOMAIN-SUFFIX,94seyy.com
   - DOMAIN-SUFFIX,978.life
@@ -1800,6 +1801,7 @@ payload:
   - DOMAIN-SUFFIX,avlang.com
   - DOMAIN-SUFFIX,avlanga2.com
   - DOMAIN-SUFFIX,avldh.com
+  - DOMAIN-SUFFIX,avlove30.com
   - DOMAIN-SUFFIX,avlxx.com
   - DOMAIN-SUFFIX,avmates.com
   - DOMAIN-SUFFIX,avmeme.com
