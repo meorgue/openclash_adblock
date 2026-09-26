@@ -1,9 +1,9 @@
-# Version: 202609251332
+# Version: 202609260231
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21430
-# Last modified: 2026-09-25T13:32:38+0000
+# Entries: 21432
+# Last modified: 2026-09-26T02:31:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13478,6 +13478,7 @@ payload:
   - DOMAIN-SUFFIX,porncide.com
   - DOMAIN-SUFFIX,porncide.net
   - DOMAIN-SUFFIX,porncide.online
+  - DOMAIN-SUFFIX,porncide.pro
   - DOMAIN-SUFFIX,porncide.site
   - DOMAIN-SUFFIX,porncide.space
   - DOMAIN-SUFFIX,pornclassic.tube
@@ -15637,6 +15638,7 @@ payload:
   - DOMAIN-SUFFIX,sex4stories.com
   - DOMAIN-SUFFIX,sex4tokens.com
   - DOMAIN-SUFFIX,sex5x.com
+  - DOMAIN-SUFFIX,sex69hd.pro
   - DOMAIN-SUFFIX,sex6x.com
   - DOMAIN-SUFFIX,sex8.cc
   - DOMAIN-SUFFIX,sex8.zone
