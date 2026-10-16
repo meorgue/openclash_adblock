@@ -1,9 +1,9 @@
-# Version: 202610160206
+# Version: 202610161206
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 473422
-# Last modified: 2026-10-16T02:06:24+0000
+# Entries: 473423
+# Last modified: 2026-10-16T12:06:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -120327,6 +120327,7 @@ payload:
   - DOMAIN-SUFFIX,drbokep.work
   - DOMAIN-SUFFIX,drbokep.xyz
   - DOMAIN-SUFFIX,drbokep18.com
+  - DOMAIN-SUFFIX,drbokep18.org
   - DOMAIN-SUFFIX,drcg.cc
   - DOMAIN-SUFFIX,drchale.com.cn
   - DOMAIN-SUFFIX,drchatgyi-sexygirls.blogspot.com
@@ -399671,6 +399672,7 @@ payload:
   - DOMAIN-SUFFIX,taboodude.com
   - DOMAIN-SUFFIX,tabooer.com
   - DOMAIN-SUFFIX,tabooescorts.com
+  - DOMAIN-SUFFIX,taboofamfun.com
   - DOMAIN-SUFFIX,taboofamily.co
   - DOMAIN-SUFFIX,taboofamily.net
   - DOMAIN-SUFFIX,taboofamilystories.blogspot.com
@@ -462970,7 +462972,6 @@ payload:
   - DOMAIN-SUFFIX,ydle.com.cn
   - DOMAIN-SUFFIX,ydlengbuliao.com
   - DOMAIN-SUFFIX,ydljx.com
-  - DOMAIN-SUFFIX,ydlsdl.com
   - DOMAIN-SUFFIX,ydm-ff.qaimlvsqhi.shop
   - DOMAIN-SUFFIX,ydmjfw.com
   - DOMAIN-SUFFIX,ydmoa.com
