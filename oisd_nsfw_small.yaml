@@ -1,9 +1,9 @@
-# Version: 202610150956
+# Version: 202610151635
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19296
-# Last modified: 2026-10-15T09:56:06+0000
+# Entries: 19297
+# Last modified: 2026-10-15T16:35:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7562,6 +7562,7 @@ payload:
   - DOMAIN-SUFFIX,hstream.moe
   - DOMAIN-SUFFIX,htube.com
   - DOMAIN-SUFFIX,hualiandao.com
+  - DOMAIN-SUFFIX,huangguo.com
   - DOMAIN-SUFFIX,huangguo.video
   - DOMAIN-SUFFIX,huangguoai.com
   - DOMAIN-SUFFIX,huaren.live
