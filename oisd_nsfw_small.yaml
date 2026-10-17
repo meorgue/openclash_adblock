@@ -1,9 +1,9 @@
-# Version: 202610160822
+# Version: 202610161935
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19275
-# Last modified: 2026-10-16T08:22:06+0000
+# Entries: 19281
+# Last modified: 2026-10-16T19:35:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4947,10 +4947,15 @@ payload:
   - DOMAIN-SUFFIX,faponic.com
   - DOMAIN-SUFFIX,fapopedia.net
   - DOMAIN-SUFFIX,faporn.link
+  - DOMAIN-SUFFIX,fappeningb.com
+  - DOMAIN-SUFFIX,fappeningbk.com
   - DOMAIN-SUFFIX,fappeningbook.com
+  - DOMAIN-SUFFIX,fappeningclub.com
   - DOMAIN-SUFFIX,fappeningleaks.com
+  - DOMAIN-SUFFIX,fappeningzone.com
   - DOMAIN-SUFFIX,fappenist.com
   - DOMAIN-SUFFIX,fappis.com
+  - DOMAIN-SUFFIX,fappnet.com
   - DOMAIN-SUFFIX,fapptime.com
   - DOMAIN-SUFFIX,fapreactor.com
   - DOMAIN-SUFFIX,faproulette.co
@@ -15156,6 +15161,7 @@ payload:
   - DOMAIN-SUFFIX,srjav.com
   - DOMAIN-SUFFIX,srpacks.com
   - DOMAIN-SUFFIX,ss12362.com
+  - DOMAIN-SUFFIX,sslip.io
   - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,ssread.cn
   - DOMAIN-SUFFIX,ssssjp9879867.xyz
