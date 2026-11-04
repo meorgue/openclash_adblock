@@ -1,9 +1,9 @@
-# Version: 202611031729
+# Version: 202611040206
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 18414
-# Last modified: 2026-11-03T17:29:08+0000
+# Entries: 18379
+# Last modified: 2026-11-04T02:06:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16,6 +16,7 @@
 
 payload:
   - DOMAIN-SUFFIX,0-0.asia
+  - DOMAIN-SUFFIX,0001xhamster.com
   - DOMAIN-SUFFIX,007dc.com
   - DOMAIN-SUFFIX,01tube.com
   - DOMAIN-SUFFIX,01tube.vip
@@ -38,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,1000fapvids.com
   - DOMAIN-SUFFIX,1000giribest.com
   - DOMAIN-SUFFIX,1000love.net
+  - DOMAIN-SUFFIX,1001pp.com
   - DOMAIN-SUFFIX,100bucksbabes.com
   - DOMAIN-SUFFIX,100cucixxx.com
   - DOMAIN-SUFFIX,100pezd.net
@@ -47,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,1080p4me.com
   - DOMAIN-SUFFIX,1080pok.com
   - DOMAIN-SUFFIX,10musume.com
+  - DOMAIN-SUFFIX,10xflix.art
   - DOMAIN-SUFFIX,11dle.com
   - DOMAIN-SUFFIX,11vids.com
   - DOMAIN-SUFFIX,12383.net
@@ -153,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,1publicagent.com
   - DOMAIN-SUFFIX,1sextube.com
   - DOMAIN-SUFFIX,1ting.com
-  - DOMAIN-SUFFIX,1trannytube.com
   - DOMAIN-SUFFIX,1went.net
   - DOMAIN-SUFFIX,1xnxx.art
   - DOMAIN-SUFFIX,1xs.org
@@ -258,6 +260,7 @@ payload:
   - DOMAIN-SUFFIX,3gpking.name
   - DOMAIN-SUFFIX,3gpkings.info
   - DOMAIN-SUFFIX,3hentai.net
+  - DOMAIN-SUFFIX,3hentai.to
   - DOMAIN-SUFFIX,3iks.org
   - DOMAIN-SUFFIX,3iskk.xyz
   - DOMAIN-SUFFIX,3kcams.com
@@ -268,7 +271,6 @@ payload:
   - DOMAIN-SUFFIX,3oopark.com
   - DOMAIN-SUFFIX,3porn.gg
   - DOMAIN-SUFFIX,3pornstarmovies.com
-  - DOMAIN-SUFFIX,3qk.net
   - DOMAIN-SUFFIX,3rab-naar.com
   - DOMAIN-SUFFIX,3rabnaar.com
   - DOMAIN-SUFFIX,3rabporn.cam
@@ -301,6 +303,7 @@ payload:
   - DOMAIN-SUFFIX,4ertik.cloud
   - DOMAIN-SUFFIX,4gay.com
   - DOMAIN-SUFFIX,4gay.fans
+  - DOMAIN-SUFFIX,4greedy.com
   - DOMAIN-SUFFIX,4horlover.com
   - DOMAIN-SUFFIX,4hu.tv
   - DOMAIN-SUFFIX,4ibo.pro
@@ -335,6 +338,7 @@ payload:
   - DOMAIN-SUFFIX,51papaya.com
   - DOMAIN-SUFFIX,51shucheng.net
   - DOMAIN-SUFFIX,51sptv.com
+  - DOMAIN-SUFFIX,5200xs.co
   - DOMAIN-SUFFIX,520cc.cc
   - DOMAIN-SUFFIX,520mojing.com
   - DOMAIN-SUFFIX,521m.com
@@ -350,6 +354,7 @@ payload:
   - DOMAIN-SUFFIX,56.com
   - DOMAIN-SUFFIX,57cg4.com
   - DOMAIN-SUFFIX,57duanju.net
+  - DOMAIN-SUFFIX,58t.net
   - DOMAIN-SUFFIX,5ch.fun
   - DOMAIN-SUFFIX,5escorts.com
   - DOMAIN-SUFFIX,5gays.com
@@ -381,7 +386,6 @@ payload:
   - DOMAIN-SUFFIX,69story.com
   - DOMAIN-SUFFIX,69tang.org
   - DOMAIN-SUFFIX,69vj.com
-  - DOMAIN-SUFFIX,69xxxtube.com
   - DOMAIN-SUFFIX,69yed.com
   - DOMAIN-SUFFIX,6comix.com
   - DOMAIN-SUFFIX,6eros.live
@@ -424,6 +428,7 @@ payload:
   - DOMAIN-SUFFIX,838888.net
   - DOMAIN-SUFFIX,85po.com
   - DOMAIN-SUFFIX,85po.net
+  - DOMAIN-SUFFIX,85ro.com
   - DOMAIN-SUFFIX,870.jp
   - DOMAIN-SUFFIX,8888.porn
   - DOMAIN-SUFFIX,88p2p.com
@@ -448,7 +453,6 @@ payload:
   - DOMAIN-SUFFIX,8yunpan.com
   - DOMAIN-SUFFIX,8zoo.net
   - DOMAIN-SUFFIX,9-eyes.com
-  - DOMAIN-SUFFIX,900072.com
   - DOMAIN-SUFFIX,900804.com
   - DOMAIN-SUFFIX,90sdyy.com
   - DOMAIN-SUFFIX,9188porn.com
@@ -731,7 +735,6 @@ payload:
   - DOMAIN-SUFFIX,agentredgirl.com
   - DOMAIN-SUFFIX,aggressivebabes.com
   - DOMAIN-SUFFIX,agresori.com
-  - DOMAIN-SUFFIX,agu3000.com
   - DOMAIN-SUFFIX,ah-me.com
   - DOMAIN-SUFFIX,ahaaporn.com
   - DOMAIN-SUFFIX,ahegao.online
@@ -839,7 +842,6 @@ payload:
   - DOMAIN-SUFFIX,allmy.cam
   - DOMAIN-SUFFIX,allnokia.ru
   - DOMAIN-SUFFIX,allnporn.com
-  - DOMAIN-SUFFIX,allofadult.com
   - DOMAIN-SUFFIX,allofteens.com
   - DOMAIN-SUFFIX,alloldpics.com
   - DOMAIN-SUFFIX,allover30.com
@@ -915,6 +917,7 @@ payload:
   - DOMAIN-SUFFIX,amateuretsexe.com
   - DOMAIN-SUFFIX,amateureuro.com
   - DOMAIN-SUFFIX,amateurfans.com
+  - DOMAIN-SUFFIX,amateurfapper.com
   - DOMAIN-SUFFIX,amateurfetishist.com
   - DOMAIN-SUFFIX,amateurfrancais.com
   - DOMAIN-SUFFIX,amateurfrancais.fr
@@ -1044,7 +1047,6 @@ payload:
   - DOMAIN-SUFFIX,animehentaixhub.com
   - DOMAIN-SUFFIX,animeidhentai.com
   - DOMAIN-SUFFIX,animeotk.com
-  - DOMAIN-SUFFIX,animeporn-love.com
   - DOMAIN-SUFFIX,animeporn.best
   - DOMAIN-SUFFIX,animeporn.tube
   - DOMAIN-SUFFIX,animeporn.tv
@@ -1052,7 +1054,6 @@ payload:
   - DOMAIN-SUFFIX,animeporncast.com
   - DOMAIN-SUFFIX,animeporncove.com
   - DOMAIN-SUFFIX,animepornmode.com
-  - DOMAIN-SUFFIX,animes.gratis
   - DOMAIN-SUFFIX,animesdigital.org
   - DOMAIN-SUFFIX,animesex-online.com
   - DOMAIN-SUFFIX,animesex.club
@@ -1220,7 +1221,6 @@ payload:
   - DOMAIN-SUFFIX,arly99.com
   - DOMAIN-SUFFIX,armino.cc
   - DOMAIN-SUFFIX,armporno.cc
-  - DOMAIN-SUFFIX,army888.com
   - DOMAIN-SUFFIX,aroma-premium.net
   - DOMAIN-SUFFIX,around.xxx
   - DOMAIN-SUFFIX,aroundporn.com
@@ -1313,7 +1313,6 @@ payload:
   - DOMAIN-SUFFIX,asianpornfree.shop
   - DOMAIN-SUFFIX,asianporngals.com
   - DOMAIN-SUFFIX,asianporngif.com
-  - DOMAIN-SUFFIX,asianporngrace.com
   - DOMAIN-SUFFIX,asianpornjav.com
   - DOMAIN-SUFFIX,asianpornmovies.com
   - DOMAIN-SUFFIX,asianpornok.com
@@ -1328,7 +1327,6 @@ payload:
   - DOMAIN-SUFFIX,asianrape.tv
   - DOMAIN-SUFFIX,asianrz.com
   - DOMAIN-SUFFIX,asians247.com
-  - DOMAIN-SUFFIX,asianscreens.com
   - DOMAIN-SUFFIX,asiansexbox.shop
   - DOMAIN-SUFFIX,asiansexcam.shop
   - DOMAIN-SUFFIX,asiansexcream.shop
@@ -1362,7 +1360,6 @@ payload:
   - DOMAIN-SUFFIX,asiasexy.net
   - DOMAIN-SUFFIX,asiasok.com
   - DOMAIN-SUFFIX,asiatubevideos.com
-  - DOMAIN-SUFFIX,askass.com
   - DOMAIN-SUFFIX,aslimms.com
   - DOMAIN-SUFFIX,asmhentai.com
   - DOMAIN-SUFFIX,asmr.one
@@ -1477,6 +1474,7 @@ payload:
   - DOMAIN-SUFFIX,avexxx.com
   - DOMAIN-SUFFIX,avfan.com
   - DOMAIN-SUFFIX,avfan03.com
+  - DOMAIN-SUFFIX,avfan04.com
   - DOMAIN-SUFFIX,avfan05.com
   - DOMAIN-SUFFIX,avfhd.com
   - DOMAIN-SUFFIX,avfolder.com
@@ -1584,7 +1582,6 @@ payload:
   - DOMAIN-SUFFIX,b-pep.com
   - DOMAIN-SUFFIX,b-porn.com
   - DOMAIN-SUFFIX,b1gtits.com
-  - DOMAIN-SUFFIX,b4busty.com
   - DOMAIN-SUFFIX,babaeb.xyz
   - DOMAIN-SUFFIX,babakfilm.com
   - DOMAIN-SUFFIX,babe.today
@@ -1747,7 +1744,6 @@ payload:
   - DOMAIN-SUFFIX,bbsgayru35.com
   - DOMAIN-SUFFIX,bbsgayru36.com
   - DOMAIN-SUFFIX,bbw-chan.link
-  - DOMAIN-SUFFIX,bbwadultvideos.com
   - DOMAIN-SUFFIX,bbwanalsex.com
   - DOMAIN-SUFFIX,bbwbabes.pro
   - DOMAIN-SUFFIX,bbwbaker.com
@@ -1803,6 +1799,7 @@ payload:
   - DOMAIN-SUFFIX,bdsmspot.com
   - DOMAIN-SUFFIX,bdsmstreak.com
   - DOMAIN-SUFFIX,bdsmtest.org
+  - DOMAIN-SUFFIX,bdsmtubeclub.com
   - DOMAIN-SUFFIX,bdsmtubegalore.com
   - DOMAIN-SUFFIX,bdsmup.net
   - DOMAIN-SUFFIX,bdsmvilla.com
@@ -1952,7 +1949,6 @@ payload:
   - DOMAIN-SUFFIX,bestmaturesex.shop
   - DOMAIN-SUFFIX,bestofgaymusclelive.com
   - DOMAIN-SUFFIX,bestporn.pics
-  - DOMAIN-SUFFIX,bestporn.world
   - DOMAIN-SUFFIX,bestpornclip.com
   - DOMAIN-SUFFIX,bestpornclips.click
   - DOMAIN-SUFFIX,bestporncomix.com
@@ -1963,7 +1959,6 @@ payload:
   - DOMAIN-SUFFIX,bestrapeporn.com
   - DOMAIN-SUFFIX,bestrealdoll.com
   - DOMAIN-SUFFIX,bestsexcam.tv
-  - DOMAIN-SUFFIX,bestsexclips.moe
   - DOMAIN-SUFFIX,bestsexo.com
   - DOMAIN-SUFFIX,bestsexporno.com
   - DOMAIN-SUFFIX,bestsexpositions.com
@@ -2018,7 +2013,6 @@ payload:
   - DOMAIN-SUFFIX,biaustralia.com.au
   - DOMAIN-SUFFIX,bicupid.com
   - DOMAIN-SUFFIX,big7.com
-  - DOMAIN-SUFFIX,bigasianporn.shop
   - DOMAIN-SUFFIX,bigasiansex.shop
   - DOMAIN-SUFFIX,bigass.me
   - DOMAIN-SUFFIX,bigassanal.net
@@ -2111,7 +2105,6 @@ payload:
   - DOMAIN-SUFFIX,blackbanana-dvd.com
   - DOMAIN-SUFFIX,blackboyaddictionz.com
   - DOMAIN-SUFFIX,blackcockpictures.com
-  - DOMAIN-SUFFIX,blackdream.hu
   - DOMAIN-SUFFIX,blacked.com
   - DOMAIN-SUFFIX,blackedbabes.com
   - DOMAIN-SUFFIX,blackedjav.com
@@ -2167,7 +2160,6 @@ payload:
   - DOMAIN-SUFFIX,bmaal.io
   - DOMAIN-SUFFIX,bmk88.com
   - DOMAIN-SUFFIX,bmwigs.com
-  - DOMAIN-SUFFIX,bnude.com
   - DOMAIN-SUFFIX,boabronha.com
   - DOMAIN-SUFFIX,boafoda.club
   - DOMAIN-SUFFIX,boafoda.com
@@ -2276,6 +2268,7 @@ payload:
   - DOMAIN-SUFFIX,bokepindoh.fitness
   - DOMAIN-SUFFIX,bokepindoh.garden
   - DOMAIN-SUFFIX,bokepindoh.news
+  - DOMAIN-SUFFIX,bokepindoh.team
   - DOMAIN-SUFFIX,bokepindoh.xxx
   - DOMAIN-SUFFIX,bokepindoh13.com
   - DOMAIN-SUFFIX,bokepindohd.me
@@ -2455,6 +2448,7 @@ payload:
   - DOMAIN-SUFFIX,bongacams88.com
   - DOMAIN-SUFFIX,bongacams89.com
   - DOMAIN-SUFFIX,bongacams9.com
+  - DOMAIN-SUFFIX,bongacams92.com
   - DOMAIN-SUFFIX,bongacams93.com
   - DOMAIN-SUFFIX,bongacams94.com
   - DOMAIN-SUFFIX,bongacams95.com
@@ -2510,6 +2504,7 @@ payload:
   - DOMAIN-SUFFIX,boomba.club
   - DOMAIN-SUFFIX,boombo.biz
   - DOMAIN-SUFFIX,booncams.com
+  - DOMAIN-SUFFIX,booru.eu
   - DOMAIN-SUFFIX,bootycall.xxx
   - DOMAIN-SUFFIX,bootyexpo.net
   - DOMAIN-SUFFIX,bootyheroes.com
@@ -2733,7 +2728,6 @@ payload:
   - DOMAIN-SUFFIX,c0930.com
   - DOMAIN-SUFFIX,cabaredotonho.com
   - DOMAIN-SUFFIX,cableav.video
-  - DOMAIN-SUFFIX,cacaporno.com
   - DOMAIN-SUFFIX,caclrc.cn
   - DOMAIN-SUFFIX,cadinot.fr
   - DOMAIN-SUFFIX,cafedesire.com
@@ -2806,7 +2800,6 @@ payload:
   - DOMAIN-SUFFIX,camking.net
   - DOMAIN-SUFFIX,camliveshows.com
   - DOMAIN-SUFFIX,cammodels.com
-  - DOMAIN-SUFFIX,camon.me
   - DOMAIN-SUFFIX,camonster.com
   - DOMAIN-SUFFIX,campporn.net
   - DOMAIN-SUFFIX,camprofiles.com
@@ -2909,6 +2902,7 @@ payload:
   - DOMAIN-SUFFIX,canhuashe.vip
   - DOMAIN-SUFFIX,canlisex43.site
   - DOMAIN-SUFFIX,canovel.com
+  - DOMAIN-SUFFIX,caoliu1024.com
   - DOMAIN-SUFFIX,capetinhas.blog
   - DOMAIN-SUFFIX,capitalcityrum.com
   - DOMAIN-SUFFIX,capitalporn.com
@@ -2938,6 +2932,7 @@ payload:
   - DOMAIN-SUFFIX,cartoonporn24.com
   - DOMAIN-SUFFIX,cartoonporncomics.info
   - DOMAIN-SUFFIX,cartoonporno.xxx
+  - DOMAIN-SUFFIX,cartoonpornpictures.net
   - DOMAIN-SUFFIX,cartoonpornvideos.com
   - DOMAIN-SUFFIX,cartoonpornvids.com
   - DOMAIN-SUFFIX,cartoonprn.com
@@ -3049,6 +3044,7 @@ payload:
   - DOMAIN-SUFFIX,chathostess.com
   - DOMAIN-SUFFIX,chathour.com
   - DOMAIN-SUFFIX,chathourmobile.com
+  - DOMAIN-SUFFIX,chatki.com
   - DOMAIN-SUFFIX,chatliyily.com
   - DOMAIN-SUFFIX,chatporno-xxx.com
   - DOMAIN-SUFFIX,chatrazvrat.com
@@ -3065,7 +3061,6 @@ payload:
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,chaturbate.eu
   - DOMAIN-SUFFIX,chaturbate.lat
-  - DOMAIN-SUFFIX,chaturbate.md
   - DOMAIN-SUFFIX,chaturbate.pro
   - DOMAIN-SUFFIX,chaturbate.sx
   - DOMAIN-SUFFIX,chaturbate18.ru
@@ -3338,7 +3333,6 @@ payload:
   - DOMAIN-SUFFIX,comterose.jp
   - DOMAIN-SUFFIX,comunidadcams.com
   - DOMAIN-SUFFIX,conejox.com
-  - DOMAIN-SUFFIX,connectionpost.biz
   - DOMAIN-SUFFIX,constitution.ru
   - DOMAIN-SUFFIX,contatosproximos.com
   - DOMAIN-SUFFIX,contoerotico.blog
@@ -3354,8 +3348,6 @@ payload:
   - DOMAIN-SUFFIX,coolasianporn.shop
   - DOMAIN-SUFFIX,coolinet.net
   - DOMAIN-SUFFIX,coolmaturexxxx.shop
-  - DOMAIN-SUFFIX,coolmoviez.codes
-  - DOMAIN-SUFFIX,coolmoviez.ltd
   - DOMAIN-SUFFIX,coolsexnew.com
   - DOMAIN-SUFFIX,coolwank.com
   - DOMAIN-SUFFIX,coom.tech
@@ -3555,7 +3547,6 @@ payload:
   - DOMAIN-SUFFIX,dan-scripts.com
   - DOMAIN-SUFFIX,dancingbear.com
   - DOMAIN-SUFFIX,danexxx.com
-  - DOMAIN-SUFFIX,danimiles.com
   - DOMAIN-SUFFIX,danitzawrites.com
   - DOMAIN-SUFFIX,dankwank.net
   - DOMAIN-SUFFIX,danskesex.com
@@ -3583,6 +3574,7 @@ payload:
   - DOMAIN-SUFFIX,data18.com
   - DOMAIN-SUFFIX,date.com
   - DOMAIN-SUFFIX,dategirls.chat
+  - DOMAIN-SUFFIX,dateinasia.com
   - DOMAIN-SUFFIX,dateyou.com
   - DOMAIN-SUFFIX,datezone.com
   - DOMAIN-SUFFIX,dating.nu
@@ -3617,6 +3609,7 @@ payload:
   - DOMAIN-SUFFIX,dedmazay.porn
   - DOMAIN-SUFFIX,deegx.com
   - DOMAIN-SUFFIX,deep-nudes.com
+  - DOMAIN-SUFFIX,deep-oralsex.com
   - DOMAIN-SUFFIX,deeper.com
   - DOMAIN-SUFFIX,deepfakeporn.net
   - DOMAIN-SUFFIX,deepfakeporn.to
@@ -3856,7 +3849,6 @@ payload:
   - DOMAIN-SUFFIX,dieoff.org
   - DOMAIN-SUFFIX,dierotenseiten.at
   - DOMAIN-SUFFIX,dierotenseiten.ch
-  - DOMAIN-SUFFIX,digdugdone.com
   - DOMAIN-SUFFIX,digichat.it
   - DOMAIN-SUFFIX,digiflix.video
   - DOMAIN-SUFFIX,digital-whores.com
@@ -3886,6 +3878,7 @@ payload:
   - DOMAIN-SUFFIX,dirty.games
   - DOMAIN-SUFFIX,dirtyasiantube.com
   - DOMAIN-SUFFIX,dirtyasianxxx.shop
+  - DOMAIN-SUFFIX,dirtyblackporn.com
   - DOMAIN-SUFFIX,dirtyboyreviews.com
   - DOMAIN-SUFFIX,dirtychinasexmovies.shop
   - DOMAIN-SUFFIX,dirtycode.io
@@ -4038,7 +4031,6 @@ payload:
   - DOMAIN-SUFFIX,douzinnsi-eromannga.com
   - DOMAIN-SUFFIX,download.sex
   - DOMAIN-SUFFIX,downloadxxx.cfd
-  - DOMAIN-SUFFIX,doxcams.com
   - DOMAIN-SUFFIX,doyouhike.net
   - DOMAIN-SUFFIX,dozrel.com
   - DOMAIN-SUFFIX,dp-vids.com
@@ -4155,7 +4147,6 @@ payload:
   - DOMAIN-SUFFIX,ebalovo.porn
   - DOMAIN-SUFFIX,ebenporno.com
   - DOMAIN-SUFFIX,ebka.cc
-  - DOMAIN-SUFFIX,eblorus.co
   - DOMAIN-SUFFIX,eboblack.com
   - DOMAIN-SUFFIX,ebony123.com
   - DOMAIN-SUFFIX,ebony8.com
@@ -4187,7 +4178,6 @@ payload:
   - DOMAIN-SUFFIX,ecoporno.cc
   - DOMAIN-SUFFIX,edenfantasys.com
   - DOMAIN-SUFFIX,edengay.com
-  - DOMAIN-SUFFIX,edengay.net
   - DOMAIN-SUFFIX,edgequeens.com
   - DOMAIN-SUFFIX,edhc.top
   - DOMAIN-SUFFIX,edicepecko.cz
@@ -4199,7 +4189,6 @@ payload:
   - DOMAIN-SUFFIX,egafd.com
   - DOMAIN-SUFFIX,egbbsjp.com
   - DOMAIN-SUFFIX,eggporncomics.com
-  - DOMAIN-SUFFIX,eggsroot.com
   - DOMAIN-SUFFIX,egoallstars.com
   - DOMAIN-SUFFIX,egolty.top
   - DOMAIN-SUFFIX,egooners.com
@@ -4548,7 +4537,6 @@ payload:
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,explicite-art.com
   - DOMAIN-SUFFIX,exploitedcollegegirls.com
-  - DOMAIN-SUFFIX,exploitedteens.com
   - DOMAIN-SUFFIX,exploreredbull.com
   - DOMAIN-SUFFIX,exporntoons.net
   - DOMAIN-SUFFIX,exposedpassion.com
@@ -4701,7 +4689,6 @@ payload:
   - DOMAIN-SUFFIX,fapator.com
   - DOMAIN-SUFFIX,fapbraze.com
   - DOMAIN-SUFFIX,fapcam.club
-  - DOMAIN-SUFFIX,fapcam.tv
   - DOMAIN-SUFFIX,fapcat.com
   - DOMAIN-SUFFIX,fapclub.vip
   - DOMAIN-SUFFIX,fapcoholic.com
@@ -4819,7 +4806,6 @@ payload:
   - DOMAIN-SUFFIX,fastporn.biz
   - DOMAIN-SUFFIX,fatalmodel.com
   - DOMAIN-SUFFIX,fatassbooty.com
-  - DOMAIN-SUFFIX,fatgrannytube.com
   - DOMAIN-SUFFIX,fatmomtube.com
   - DOMAIN-SUFFIX,fatpornmov.com
   - DOMAIN-SUFFIX,fatporntube.com
@@ -4974,6 +4960,7 @@ payload:
   - DOMAIN-SUFFIX,film-adult.video
   - DOMAIN-SUFFIX,film1k.com
   - DOMAIN-SUFFIX,film911.net
+  - DOMAIN-SUFFIX,filmarc.net
   - DOMAIN-SUFFIX,filmbokep.cc
   - DOMAIN-SUFFIX,filmbokepkorea.icu
   - DOMAIN-SUFFIX,filmedesexo.blog
@@ -5015,8 +5002,6 @@ payload:
   - DOMAIN-SUFFIX,filmxxxhd.com
   - DOMAIN-SUFFIX,filmy69.pl
   - DOMAIN-SUFFIX,filmyfantasy.com
-  - DOMAIN-SUFFIX,filmyfly.farm
-  - DOMAIN-SUFFIX,filmyfly.soy
   - DOMAIN-SUFFIX,filmyporno.tv
   - DOMAIN-SUFFIX,filthnest.com
   - DOMAIN-SUFFIX,filthyhero.com
@@ -5182,7 +5167,6 @@ payload:
   - DOMAIN-SUFFIX,free6cams.com
   - DOMAIN-SUFFIX,freeadultcamsonline.com
   - DOMAIN-SUFFIX,freeadultcomix.com
-  - DOMAIN-SUFFIX,freeadultcontent.us
   - DOMAIN-SUFFIX,freeadulter.fun
   - DOMAIN-SUFFIX,freeanimalporn.net
   - DOMAIN-SUFFIX,freeanimalporn.tv
@@ -5245,7 +5229,6 @@ payload:
   - DOMAIN-SUFFIX,freeones.pl
   - DOMAIN-SUFFIX,freeonestube.com
   - DOMAIN-SUFFIX,freeporn-24.com
-  - DOMAIN-SUFFIX,freeporn-3d.com
   - DOMAIN-SUFFIX,freeporn-always.com
   - DOMAIN-SUFFIX,freeporn-anytime.com
   - DOMAIN-SUFFIX,freeporn-bunch.com
@@ -5261,12 +5244,10 @@ payload:
   - DOMAIN-SUFFIX,freeporn-scape.com
   - DOMAIN-SUFFIX,freeporn-th.com
   - DOMAIN-SUFFIX,freeporn-tour.com
-  - DOMAIN-SUFFIX,freeporn.casa
   - DOMAIN-SUFFIX,freeporn.com
   - DOMAIN-SUFFIX,freeporn.gg
   - DOMAIN-SUFFIX,freeporn.ooo
   - DOMAIN-SUFFIX,freeporn.rodeo
-  - DOMAIN-SUFFIX,freeporn.watch
   - DOMAIN-SUFFIX,freeporn24.org
   - DOMAIN-SUFFIX,freeporn8.click
   - DOMAIN-SUFFIX,freeporn8.com
@@ -5284,7 +5265,6 @@ payload:
   - DOMAIN-SUFFIX,freepornjpg.com
   - DOMAIN-SUFFIX,freepornlab.com
   - DOMAIN-SUFFIX,freepornlead.com
-  - DOMAIN-SUFFIX,freepornlook.com
   - DOMAIN-SUFFIX,freepornluck.com
   - DOMAIN-SUFFIX,freepornmission.com
   - DOMAIN-SUFFIX,freepornmove.com
@@ -5472,7 +5452,6 @@ payload:
   - DOMAIN-SUFFIX,fulladultmovies.com
   - DOMAIN-SUFFIX,fullasianxxx.shop
   - DOMAIN-SUFFIX,fullboys.com
-  - DOMAIN-SUFFIX,fullchinapron.shop
   - DOMAIN-SUFFIX,fullchinaxxxmovies.shop
   - DOMAIN-SUFFIX,fulldesisex.com
   - DOMAIN-SUFFIX,fulleroticmovies.net
@@ -5566,7 +5545,6 @@ payload:
   - DOMAIN-SUFFIX,galeriedesade.com
   - DOMAIN-SUFFIX,galleries-pornstar.com
   - DOMAIN-SUFFIX,galleries-pro.com
-  - DOMAIN-SUFFIX,gallerieshub.com
   - DOMAIN-SUFFIX,galleryofmen.com
   - DOMAIN-SUFFIX,gals4free.net
   - DOMAIN-SUFFIX,gamail.com
@@ -5772,7 +5750,6 @@ payload:
   - DOMAIN-SUFFIX,gaytube.com
   - DOMAIN-SUFFIX,gaytube.site
   - DOMAIN-SUFFIX,gaytubefuck.com
-  - DOMAIN-SUFFIX,gaytubegang.com
   - DOMAIN-SUFFIX,gaytubetop.com
   - DOMAIN-SUFFIX,gaytxxx.com
   - DOMAIN-SUFFIX,gayvd.com
@@ -5799,13 +5776,13 @@ payload:
   - DOMAIN-SUFFIX,gayxxxfilms.com
   - DOMAIN-SUFFIX,gayxxxworld.com
   - DOMAIN-SUFFIX,gaziantepgazetesi.com
-  - DOMAIN-SUFFIX,gaziantepkuruyemis.com
   - DOMAIN-SUFFIX,gazounabi.com
   - DOMAIN-SUFFIX,gcbt.net
   - DOMAIN-SUFFIX,gccams.com
   - DOMAIN-SUFFIX,gcolle.net
   - DOMAIN-SUFFIX,gedecomix.com
   - DOMAIN-SUFFIX,geilefrauen.pics
+  - DOMAIN-SUFFIX,geilesexgeschichten.org
   - DOMAIN-SUFFIX,geilevotzen.com
   - DOMAIN-SUFFIX,gelbooru.com
   - DOMAIN-SUFFIX,gelinler.biz
@@ -5918,6 +5895,7 @@ payload:
   - DOMAIN-SUFFIX,girlsgonewild.com
   - DOMAIN-SUFFIX,girlsinmood.com
   - DOMAIN-SUFFIX,girlsnudepic.com
+  - DOMAIN-SUFFIX,girlsnudeporn.com
   - DOMAIN-SUFFIX,girlsofdesire.org
   - DOMAIN-SUFFIX,girlsonlyporn.com
   - DOMAIN-SUFFIX,girlsoutwest.com
@@ -6026,7 +6004,6 @@ payload:
   - DOMAIN-SUFFIX,gostosaseamadoras.com
   - DOMAIN-SUFFIX,gostosashd.blog.br
   - DOMAIN-SUFFIX,gotanynudes.com
-  - DOMAIN-SUFFIX,gotoboy.com
   - DOMAIN-SUFFIX,gotporn.com
   - DOMAIN-SUFFIX,gotporn.monster
   - DOMAIN-SUFFIX,gotpornstars.net
@@ -6048,6 +6025,8 @@ payload:
   - DOMAIN-SUFFIX,grandmaporno.com
   - DOMAIN-SUFFIX,grandmatubes.com
   - DOMAIN-SUFFIX,grandmomporn.com
+  - DOMAIN-SUFFIX,grandsexetube.com
+  - DOMAIN-SUFFIX,grandtitstube.com
   - DOMAIN-SUFFIX,grandxxxtube.com
   - DOMAIN-SUFFIX,granniessex.net
   - DOMAIN-SUFFIX,granny-pornsex.com
@@ -6079,16 +6058,15 @@ payload:
   - DOMAIN-SUFFIX,gransexy.com
   - DOMAIN-SUFFIX,gratis-sexnoveller.dk
   - DOMAIN-SUFFIX,gratispornosdeutsch.com
-  - DOMAIN-SUFFIX,gratisreifefrauen.com
   - DOMAIN-SUFFIX,gratisseksfilm.com
   - DOMAIN-SUFFIX,gratuit.xxx
-  - DOMAIN-SUFFIX,gravia.site
   - DOMAIN-SUFFIX,gravure-idol-douga.com
   - DOMAIN-SUFFIX,gravurefit.com
   - DOMAIN-SUFFIX,grayporn.org
   - DOMAIN-SUFFIX,greatchinaxxx.shop
   - DOMAIN-SUFFIX,greatformaine.com
   - DOMAIN-SUFFIX,greatxgirl.com
+  - DOMAIN-SUFFIX,greekfoot.com
   - DOMAIN-SUFFIX,green.porn
   - DOMAIN-SUFFIX,greenguysboard.com
   - DOMAIN-SUFFIX,greentrafsa.com
@@ -6099,6 +6077,7 @@ payload:
   - DOMAIN-SUFFIX,grometsplaza.net
   - DOMAIN-SUFFIX,gromochat.com
   - DOMAIN-SUFFIX,groobygirls.com
+  - DOMAIN-SUFFIX,groobyod.com
   - DOMAIN-SUFFIX,grouppornotube.com
   - DOMAIN-SUFFIX,groupsexpornfree.com
   - DOMAIN-SUFFIX,groupsexvideos24.com
@@ -6130,7 +6109,6 @@ payload:
   - DOMAIN-SUFFIX,guppy.live
   - DOMAIN-SUFFIX,guro.cx
   - DOMAIN-SUFFIX,guru.porn
-  - DOMAIN-SUFFIX,gustoporntube.com
   - DOMAIN-SUFFIX,gutesexfilme.com
   - DOMAIN-SUFFIX,guyporntube.com
   - DOMAIN-SUFFIX,guystricked.com
@@ -6283,6 +6261,7 @@ payload:
   - DOMAIN-SUFFIX,hd-cum-porn.com
   - DOMAIN-SUFFIX,hd-easyporn.com
   - DOMAIN-SUFFIX,hd-porn.click
+  - DOMAIN-SUFFIX,hd-pornos.com
   - DOMAIN-SUFFIX,hd-pornos.info
   - DOMAIN-SUFFIX,hd-sexfilme.com
   - DOMAIN-SUFFIX,hd-sexporn.rodeo
@@ -6355,6 +6334,7 @@ payload:
   - DOMAIN-SUFFIX,hdporn.tv
   - DOMAIN-SUFFIX,hdporn.video
   - DOMAIN-SUFFIX,hdporn92.com
+  - DOMAIN-SUFFIX,hdporncomic.net
   - DOMAIN-SUFFIX,hdporncomics.com
   - DOMAIN-SUFFIX,hdporncomics.org
   - DOMAIN-SUFFIX,hdporner.me
@@ -6431,7 +6411,6 @@ payload:
   - DOMAIN-SUFFIX,heavycuties.com
   - DOMAIN-SUFFIX,heavyfetish.com
   - DOMAIN-SUFFIX,heavyonhotties.com
-  - DOMAIN-SUFFIX,heavyplumpers.com
   - DOMAIN-SUFFIX,hee2thai.com
   - DOMAIN-SUFFIX,heeban.com
   - DOMAIN-SUFFIX,heechompoo.com
@@ -6448,7 +6427,6 @@ payload:
   - DOMAIN-SUFFIX,helixstudios.com
   - DOMAIN-SUFFIX,hellmoms.com
   - DOMAIN-SUFFIX,hello.porn
-  - DOMAIN-SUFFIX,hellodasx.com
   - DOMAIN-SUFFIX,hellogayporn.com
   - DOMAIN-SUFFIX,helloladyboy.com
   - DOMAIN-SUFFIX,helloporn.com
@@ -6495,6 +6473,7 @@ payload:
   - DOMAIN-SUFFIX,hentai2w.com
   - DOMAIN-SUFFIX,hentai3dxxxtube.com
   - DOMAIN-SUFFIX,hentai44.com
+  - DOMAIN-SUFFIX,hentai4all.com
   - DOMAIN-SUFFIX,hentai4daily.com
   - DOMAIN-SUFFIX,hentai4free.net
   - DOMAIN-SUFFIX,hentai4k.com
@@ -6518,7 +6497,6 @@ payload:
   - DOMAIN-SUFFIX,hentaicloud.com
   - DOMAIN-SUFFIX,hentaiclub.net
   - DOMAIN-SUFFIX,hentaicomics.biz
-  - DOMAIN-SUFFIX,hentaicomics.me
   - DOMAIN-SUFFIX,hentaicomics.pro
   - DOMAIN-SUFFIX,hentaicomicsfree.com
   - DOMAIN-SUFFIX,hentaicop.com
@@ -6798,7 +6776,6 @@ payload:
   - DOMAIN-SUFFIX,hlcgw.com
   - DOMAIN-SUFFIX,hlebo.mobi
   - DOMAIN-SUFFIX,hmanga.asia
-  - DOMAIN-SUFFIX,hmarket.io
   - DOMAIN-SUFFIX,hmn.ru
   - DOMAIN-SUFFIX,hmvmania.com
   - DOMAIN-SUFFIX,hnalady.com
@@ -6873,7 +6850,6 @@ payload:
   - DOMAIN-SUFFIX,hornybank.com
   - DOMAIN-SUFFIX,hornycase.com
   - DOMAIN-SUFFIX,hornychinaporn.shop
-  - DOMAIN-SUFFIX,hornychinaxxxvideos.shop
   - DOMAIN-SUFFIX,hornyfans.to
   - DOMAIN-SUFFIX,hornyfap.tv
   - DOMAIN-SUFFIX,hornygamer.com
@@ -6943,7 +6919,6 @@ payload:
   - DOMAIN-SUFFIX,hoterika.com
   - DOMAIN-SUFFIX,hotfairies.net
   - DOMAIN-SUFFIX,hotfree123.com
-  - DOMAIN-SUFFIX,hotgay.cc
   - DOMAIN-SUFFIX,hotgaylist.com
   - DOMAIN-SUFFIX,hotgirl.asia
   - DOMAIN-SUFFIX,hotgirl.biz
@@ -6992,7 +6967,6 @@ payload:
   - DOMAIN-SUFFIX,hotmovs.me
   - DOMAIN-SUFFIX,hotmovs.net
   - DOMAIN-SUFFIX,hotmovs.tube
-  - DOMAIN-SUFFIX,hotmoza.mobi
   - DOMAIN-SUFFIX,hotmoza.tv
   - DOMAIN-SUFFIX,hotms.com.br
   - DOMAIN-SUFFIX,hotmt.com.br
@@ -7025,6 +6999,7 @@ payload:
   - DOMAIN-SUFFIX,hotpussytube.com
   - DOMAIN-SUFFIX,hotrecs.com
   - DOMAIN-SUFFIX,hotscope.tv
+  - DOMAIN-SUFFIX,hotscopes.click
   - DOMAIN-SUFFIX,hotscopes.io
   - DOMAIN-SUFFIX,hotscopes.net
   - DOMAIN-SUFFIX,hotsex.tv
@@ -7034,7 +7009,6 @@ payload:
   - DOMAIN-SUFFIX,hotstunners.com
   - DOMAIN-SUFFIX,hotteenerotica.com
   - DOMAIN-SUFFIX,hotteens.pro
-  - DOMAIN-SUFFIX,hotteensrelax.com
   - DOMAIN-SUFFIX,hotters.com.br
   - DOMAIN-SUFFIX,hotterthanfire.com
   - DOMAIN-SUFFIX,hottestfilms.com
@@ -7179,7 +7153,6 @@ payload:
   - DOMAIN-SUFFIX,huippukiva.fi
   - DOMAIN-SUFFIX,huippupornoa.com
   - DOMAIN-SUFFIX,huivpizde.com
-  - DOMAIN-SUFFIX,huixingtejiao.com
   - DOMAIN-SUFFIX,hukukmedeniyeti.org
   - DOMAIN-SUFFIX,humoron.com
   - DOMAIN-SUFFIX,humpaki.com
@@ -7188,7 +7161,6 @@ payload:
   - DOMAIN-SUFFIX,hung-ya.com
   - DOMAIN-SUFFIX,hungangels.com
   - DOMAIN-SUFFIX,hunkypinoy.tv
-  - DOMAIN-SUFFIX,hunners.com
   - DOMAIN-SUFFIX,hunsex.hu
   - DOMAIN-SUFFIX,hunszex.hu
   - DOMAIN-SUFFIX,hunt4k.com
@@ -7309,7 +7281,6 @@ payload:
   - DOMAIN-SUFFIX,importdvdx.com
   - DOMAIN-SUFFIX,impostingit.com
   - DOMAIN-SUFFIX,imx.to
-  - DOMAIN-SUFFIX,imxxxvideos.com
   - DOMAIN-SUFFIX,imzog.com
   - DOMAIN-SUFFIX,in.net
   - DOMAIN-SUFFIX,in3x.net
@@ -7526,6 +7497,7 @@ payload:
   - DOMAIN-SUFFIX,isekaitube.com
   - DOMAIN-SUFFIX,isexhihi.net
   - DOMAIN-SUFFIX,isexsex.com
+  - DOMAIN-SUFFIX,isexychat.com
   - DOMAIN-SUFFIX,ishotmyself.nl
   - DOMAIN-SUFFIX,ishugui.com
   - DOMAIN-SUFFIX,isitmaal.com
@@ -7556,6 +7528,7 @@ payload:
   - DOMAIN-SUFFIX,iw01.xyz
   - DOMAIN-SUFFIX,iwank.tv
   - DOMAIN-SUFFIX,iwank.xxx
+  - DOMAIN-SUFFIX,iwankhd.com
   - DOMAIN-SUFFIX,iwanktv.pro
   - DOMAIN-SUFFIX,iwant-sex.com
   - DOMAIN-SUFFIX,iwant2cum.com
@@ -7603,6 +7576,7 @@ payload:
   - DOMAIN-SUFFIX,jagonyabokep.com
   - DOMAIN-SUFFIX,jaidefinichon.com
   - DOMAIN-SUFFIX,jakolman.com
+  - DOMAIN-SUFFIX,jalshamoviez.doctor
   - DOMAIN-SUFFIX,jambulmemek.digital
   - DOMAIN-SUFFIX,janibcn.com
   - DOMAIN-SUFFIX,janibcn.me
@@ -7624,10 +7598,8 @@ payload:
   - DOMAIN-SUFFIX,japanesecamgirl.com
   - DOMAIN-SUFFIX,japanesematures.com
   - DOMAIN-SUFFIX,japaneseporn.one
-  - DOMAIN-SUFFIX,japanesepornpictures.com
   - DOMAIN-SUFFIX,japanesesexporn.com
   - DOMAIN-SUFFIX,japanesesxxx.com
-  - DOMAIN-SUFFIX,japanesexmovie.com
   - DOMAIN-SUFFIX,japanesexxx.pro
   - DOMAIN-SUFFIX,japanfuck-sex.com
   - DOMAIN-SUFFIX,japangaysex.com
@@ -7645,6 +7617,8 @@ payload:
   - DOMAIN-SUFFIX,japanporn.tv
   - DOMAIN-SUFFIX,japanpornkit.com
   - DOMAIN-SUFFIX,japanpornlevel.com
+  - DOMAIN-SUFFIX,japanpornround.com
+  - DOMAIN-SUFFIX,japanpornstage.com
   - DOMAIN-SUFFIX,japanporntube.shop
   - DOMAIN-SUFFIX,japanpornworld.shop
   - DOMAIN-SUFFIX,japanpornzone.com
@@ -7959,7 +7933,6 @@ payload:
   - DOMAIN-SUFFIX,javxsub.mom
   - DOMAIN-SUFFIX,javxx.com
   - DOMAIN-SUFFIX,javxxhd.com
-  - DOMAIN-SUFFIX,javxxx.com.co
   - DOMAIN-SUFFIX,javxxx.me
   - DOMAIN-SUFFIX,javxxxporn.com
   - DOMAIN-SUFFIX,javy.jp
@@ -7969,7 +7942,6 @@ payload:
   - DOMAIN-SUFFIX,jbdsm.com
   - DOMAIN-SUFFIX,jbescort2u.net
   - DOMAIN-SUFFIX,jbgirlescorts02.net
-  - DOMAIN-SUFFIX,jbizarre.com
   - DOMAIN-SUFFIX,jbox.com
   - DOMAIN-SUFFIX,jbtube.co
   - DOMAIN-SUFFIX,jbw.vc
@@ -8009,6 +7981,7 @@ payload:
   - DOMAIN-SUFFIX,jetsex.pro
   - DOMAIN-SUFFIX,jeune-gay.fr
   - DOMAIN-SUFFIX,jewishfriendfinder.com
+  - DOMAIN-SUFFIX,jezebelcams.com
   - DOMAIN-SUFFIX,jfsexy.com.br
   - DOMAIN-SUFFIX,jg0.net
   - DOMAIN-SUFFIX,jieav.com
@@ -8122,7 +8095,6 @@ payload:
   - DOMAIN-SUFFIX,jukujyo.net
   - DOMAIN-SUFFIX,julesjordan.com
   - DOMAIN-SUFFIX,juliamovies.com
-  - DOMAIN-SUFFIX,juliamovies.mobi
   - DOMAIN-SUFFIX,juliettoys.com
   - DOMAIN-SUFFIX,junmeitu.com
   - DOMAIN-SUFFIX,juseys.link
@@ -8293,6 +8265,7 @@ payload:
   - DOMAIN-SUFFIX,kellymadison.com
   - DOMAIN-SUFFIX,kellymadisonmedia.com
   - DOMAIN-SUFFIX,kellywoodtoy.com
+  - DOMAIN-SUFFIX,kelu.jp
   - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-SUFFIX,kenxxx.com
   - DOMAIN-SUFFIX,kenyaadultblog.com
@@ -8324,7 +8297,6 @@ payload:
   - DOMAIN-SUFFIX,kindgirls.com
   - DOMAIN-SUFFIX,kinesiologasenperu.com
   - DOMAIN-SUFFIX,king-dvd.com
-  - DOMAIN-SUFFIX,king2cam.com
   - DOMAIN-SUFFIX,kingav.net
   - DOMAIN-SUFFIX,kingbokep.cx
   - DOMAIN-SUFFIX,kingbokep.food
@@ -8437,7 +8409,6 @@ payload:
   - DOMAIN-SUFFIX,koreanxsexo.com
   - DOMAIN-SUFFIX,koreapanas.com
   - DOMAIN-SUFFIX,koreaporn.net
-  - DOMAIN-SUFFIX,koreaporn.tv
   - DOMAIN-SUFFIX,koreaye.com
   - DOMAIN-SUFFIX,korporn.net
   - DOMAIN-SUFFIX,korsanfilmizle3.cc
@@ -8524,6 +8495,7 @@ payload:
   - DOMAIN-SUFFIX,lamoglieofferta.com
   - DOMAIN-SUFFIX,lanasbigboobs.com
   - DOMAIN-SUFFIX,landsmb.ru
+  - DOMAIN-SUFFIX,lankafriends.com
   - DOMAIN-SUFFIX,laogewen.vip
   - DOMAIN-SUFFIX,laoshuwo.net
   - DOMAIN-SUFFIX,lapkjogos.com
@@ -8595,7 +8567,6 @@ payload:
   - DOMAIN-SUFFIX,lebon.porn
   - DOMAIN-SUFFIX,lechetube.com
   - DOMAIN-SUFFIX,lectorhentai.com
-  - DOMAIN-SUFFIX,leditut.ru
   - DOMAIN-SUFFIX,leftnewsex.com
   - DOMAIN-SUFFIX,legalanalporn.com
   - DOMAIN-SUFFIX,legalporn0.com
@@ -8652,6 +8623,7 @@ payload:
   - DOMAIN-SUFFIX,leslez.com
   - DOMAIN-SUFFIX,lesluxe.com
   - DOMAIN-SUFFIX,lesnoe.net
+  - DOMAIN-SUFFIX,lespompeuses.com
   - DOMAIN-SUFFIX,let-pornvideos.com
   - DOMAIN-SUFFIX,lethalhardcore.com
   - DOMAIN-SUFFIX,lethalpass.com
@@ -8787,7 +8759,6 @@ payload:
   - DOMAIN-SUFFIX,liveporncamx.com
   - DOMAIN-SUFFIX,livepornosexchat.com
   - DOMAIN-SUFFIX,liveprivates.com
-  - DOMAIN-SUFFIX,liveseks-be.com
   - DOMAIN-SUFFIX,livesex.bar
   - DOMAIN-SUFFIX,livesex.cafe
   - DOMAIN-SUFFIX,livesex.com
@@ -8795,6 +8766,7 @@ payload:
   - DOMAIN-SUFFIX,livesex.surf
   - DOMAIN-SUFFIX,livesex.top
   - DOMAIN-SUFFIX,livesexarena.com
+  - DOMAIN-SUFFIX,livesexcams.cafe
   - DOMAIN-SUFFIX,livesexcams9.com
   - DOMAIN-SUFFIX,livesexcamshub.com
   - DOMAIN-SUFFIX,livesexchat18.com
@@ -9088,10 +9060,12 @@ payload:
   - DOMAIN-SUFFIX,manhwa18.cc
   - DOMAIN-SUFFIX,manhwa18.com
   - DOMAIN-SUFFIX,manhwa18.net
+  - DOMAIN-SUFFIX,manhwa68.com
   - DOMAIN-SUFFIX,manhwabuddy.com
   - DOMAIN-SUFFIX,manhwaclub.net
   - DOMAIN-SUFFIX,manhwaden.com
   - DOMAIN-SUFFIX,manhwahub.net
+  - DOMAIN-SUFFIX,manhwalike.com
   - DOMAIN-SUFFIX,manhwaread.com
   - DOMAIN-SUFFIX,manhwatoon.me
   - DOMAIN-SUFFIX,manhwaus.net
@@ -9172,6 +9146,7 @@ payload:
   - DOMAIN-SUFFIX,masturbate2gether.com
   - DOMAIN-SUFFIX,masturbateandchill.com
   - DOMAIN-SUFFIX,masturbatenchill.com
+  - DOMAIN-SUFFIX,masturbeauty.com
   - DOMAIN-SUFFIX,masturhub.com
   - DOMAIN-SUFFIX,masutabe.info
   - DOMAIN-SUFFIX,mat6tube.com
@@ -9180,6 +9155,7 @@ payload:
   - DOMAIN-SUFFIX,matimesan.com
   - DOMAIN-SUFFIX,matome-geinou.net
   - DOMAIN-SUFFIX,matomecup.com
+  - DOMAIN-SUFFIX,mattsmodelslive.com
   - DOMAIN-SUFFIX,mature-freeporn.com
   - DOMAIN-SUFFIX,mature-lovers.com
   - DOMAIN-SUFFIX,mature-orgasm.com
@@ -9291,7 +9267,6 @@ payload:
   - DOMAIN-SUFFIX,maturexy.com
   - DOMAIN-SUFFIX,maturezilla.com
   - DOMAIN-SUFFIX,maturingmaples.com
-  - DOMAIN-SUFFIX,maturosexy.com
   - DOMAIN-SUFFIX,maveliza.wang
   - DOMAIN-SUFFIX,mavrtracktor.com
   - DOMAIN-SUFFIX,max.porn
@@ -9573,6 +9548,7 @@ payload:
   - DOMAIN-SUFFIX,missavxxx.com
   - DOMAIN-SUFFIX,missax.com
   - DOMAIN-SUFFIX,missax.org
+  - DOMAIN-SUFFIX,missified.com
   - DOMAIN-SUFFIX,missjav.cam
   - DOMAIN-SUFFIX,misskon.com
   - DOMAIN-SUFFIX,missvod7.com
@@ -9778,6 +9754,8 @@ payload:
   - DOMAIN-SUFFIX,moviefap.com
   - DOMAIN-SUFFIX,moviehax.bar
   - DOMAIN-SUFFIX,moviemonster.com
+  - DOMAIN-SUFFIX,movieplex.business
+  - DOMAIN-SUFFIX,movieplex.me
   - DOMAIN-SUFFIX,movierotica.com
   - DOMAIN-SUFFIX,moviesbdsm.com
   - DOMAIN-SUFFIX,moviesneek.com
@@ -9823,7 +9801,6 @@ payload:
   - DOMAIN-SUFFIX,mrst.one
   - DOMAIN-SUFFIX,mrteen.cc
   - DOMAIN-SUFFIX,mrvideospornogratis.xxx
-  - DOMAIN-SUFFIX,mrvids.com
   - DOMAIN-SUFFIX,mrxxx.net
   - DOMAIN-SUFFIX,mrzyx.xyz
   - DOMAIN-SUFFIX,mscounties.com
@@ -9936,6 +9913,7 @@ payload:
   - DOMAIN-SUFFIX,mydogcum.com
   - DOMAIN-SUFFIX,mydosti.com
   - DOMAIN-SUFFIX,mydreamcompanion.com
+  - DOMAIN-SUFFIX,myescort.network
   - DOMAIN-SUFFIX,myfakedude.com
   - DOMAIN-SUFFIX,myfamilypies.com
   - DOMAIN-SUFFIX,myfans.jp
@@ -9993,6 +9971,7 @@ payload:
   - DOMAIN-SUFFIX,mypornarchive.net
   - DOMAIN-SUFFIX,mypornbible.com
   - DOMAIN-SUFFIX,mypornerleak.com
+  - DOMAIN-SUFFIX,mypornhd.net
   - DOMAIN-SUFFIX,mypornhere.com
   - DOMAIN-SUFFIX,mypornleak.com
   - DOMAIN-SUFFIX,mypornmotion.com
@@ -10251,6 +10230,7 @@ payload:
   - DOMAIN-SUFFIX,newdesixxx.com
   - DOMAIN-SUFFIX,newestxnxx.com
   - DOMAIN-SUFFIX,newgaybearclips.com
+  - DOMAIN-SUFFIX,newgaytwinks.com
   - DOMAIN-SUFFIX,newhdxxx.com
   - DOMAIN-SUFFIX,newhentai.net
   - DOMAIN-SUFFIX,newhk148forum.com
@@ -10298,6 +10278,7 @@ payload:
   - DOMAIN-SUFFIX,ngicliks.com
   - DOMAIN-SUFFIX,ngintip.icu
   - DOMAIN-SUFFIX,nhentai.com
+  - DOMAIN-SUFFIX,nhentai.group
   - DOMAIN-SUFFIX,nhentai.io
   - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,nhentai.net.br
@@ -10380,7 +10361,6 @@ payload:
   - DOMAIN-SUFFIX,nontonhentai.net
   - DOMAIN-SUFFIX,nontonhentai.org
   - DOMAIN-SUFFIX,nonuderama.net
-  - DOMAIN-SUFFIX,nonudity.info
   - DOMAIN-SUFFIX,nonvegstory.com
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,noodlemagazine.net
@@ -10468,6 +10448,7 @@ payload:
   - DOMAIN-SUFFIX,nudebase.com
   - DOMAIN-SUFFIX,nudecelebforum.com
   - DOMAIN-SUFFIX,nudecelebgifs.com
+  - DOMAIN-SUFFIX,nudecelebvideo.net
   - DOMAIN-SUFFIX,nudeclap.com
   - DOMAIN-SUFFIX,nudecosplaygirls.com
   - DOMAIN-SUFFIX,nudede.com
@@ -10693,18 +10674,17 @@ payload:
   - DOMAIN-SUFFIX,onelesbianporn.com
   - DOMAIN-SUFFIX,oneshd.com
   - DOMAIN-SUFFIX,onfirex.com
+  - DOMAIN-SUFFIX,onindiansex.info
   - DOMAIN-SUFFIX,onionbootypics.com
   - DOMAIN-SUFFIX,onlc.fr
   - DOMAIN-SUFFIX,onlidex.com
   - DOMAIN-SUFFIX,online-pornxxx.com
   - DOMAIN-SUFFIX,online-sexmovies.com
   - DOMAIN-SUFFIX,onlinecamgirl.com
-  - DOMAIN-SUFFIX,onlinecasinoxz.com
   - DOMAIN-SUFFIX,onlinefreechat.com
   - DOMAIN-SUFFIX,onlinemomtube.com
   - DOMAIN-SUFFIX,onlinepornhub.net
   - DOMAIN-SUFFIX,onlinestars.net
-  - DOMAIN-SUFFIX,onlinestrip.net
   - DOMAIN-SUFFIX,onlineteenfuck.com
   - DOMAIN-SUFFIX,onlinetube.tv
   - DOMAIN-SUFFIX,only-brunettes.com
@@ -10763,7 +10743,6 @@ payload:
   - DOMAIN-SUFFIX,onlypinayvid1.xyz
   - DOMAIN-SUFFIX,onlyplayvideos.blog
   - DOMAIN-SUFFIX,onlyporn.tube
-  - DOMAIN-SUFFIX,onlypovporn.com
   - DOMAIN-SUFFIX,onlyputaria.com
   - DOMAIN-SUFFIX,onlyrule34.com
   - DOMAIN-SUFFIX,onlyscroll.com
@@ -10779,6 +10758,7 @@ payload:
   - DOMAIN-SUFFIX,onlyzoo.fans
   - DOMAIN-SUFFIX,onlyzoofans.com
   - DOMAIN-SUFFIX,onlyzy.com
+  - DOMAIN-SUFFIX,onmpeg.com
   - DOMAIN-SUFFIX,onscreens.me
   - DOMAIN-SUFFIX,onsex.show
   - DOMAIN-SUFFIX,onyxafter.com
@@ -10817,6 +10797,7 @@ payload:
   - DOMAIN-SUFFIX,oprano.com
   - DOMAIN-SUFFIX,oralhoes.com
   - DOMAIN-SUFFIX,orangepix.is
+  - DOMAIN-SUFFIX,orangetube.org
   - DOMAIN-SUFFIX,orchidromance.com
   - DOMAIN-SUFFIX,oreno-erohon.com
   - DOMAIN-SUFFIX,oreno3d.com
@@ -10950,7 +10931,6 @@ payload:
   - DOMAIN-SUFFIX,passionaccess.com
   - DOMAIN-SUFFIX,passionatechat.com
   - DOMAIN-SUFFIX,passionnextdoor.com
-  - DOMAIN-SUFFIX,passionpornstream.com
   - DOMAIN-SUFFIX,passionshop.com
   - DOMAIN-SUFFIX,pat.com
   - DOMAIN-SUFFIX,pawchive.pw
@@ -11004,7 +10984,6 @@ payload:
   - DOMAIN-SUFFIX,penthouse.com
   - DOMAIN-SUFFIX,penthousecams.com
   - DOMAIN-SUFFIX,penthousetv.video
-  - DOMAIN-SUFFIX,pentium-pc.com
   - DOMAIN-SUFFIX,pepeleaks.com
   - DOMAIN-SUFFIX,peporn.com
   - DOMAIN-SUFFIX,peppahub.com
@@ -11234,6 +11213,7 @@ payload:
   - DOMAIN-SUFFIX,pinkworld.com
   - DOMAIN-SUFFIX,pinporn.asia
   - DOMAIN-SUFFIX,pinupfiles.com
+  - DOMAIN-SUFFIX,pinxinfan.com
   - DOMAIN-SUFFIX,piran-nha.site
   - DOMAIN-SUFFIX,pirnhub.icu
   - DOMAIN-SUFFIX,pirouvr.com
@@ -11315,6 +11295,7 @@ payload:
   - DOMAIN-SUFFIX,poensex.com
   - DOMAIN-SUFFIX,poimel.co
   - DOMAIN-SUFFIX,pokanshu.com
+  - DOMAIN-SUFFIX,pokanwen.com
   - DOMAIN-SUFFIX,pokazuha.ru
   - DOMAIN-SUFFIX,polarpornhd.com
   - DOMAIN-SUFFIX,poldertube.nl
@@ -11573,7 +11554,6 @@ payload:
   - DOMAIN-SUFFIX,pornes.club
   - DOMAIN-SUFFIX,pornes.xxx
   - DOMAIN-SUFFIX,pornet.org
-  - DOMAIN-SUFFIX,pornexam.com
   - DOMAIN-SUFFIX,pornextremal.is
   - DOMAIN-SUFFIX,pornez.cam
   - DOMAIN-SUFFIX,pornfaceid.com
@@ -11757,9 +11737,11 @@ payload:
   - DOMAIN-SUFFIX,pornlynx.com
   - DOMAIN-SUFFIX,pornm.info
   - DOMAIN-SUFFIX,pornma.com
+  - DOMAIN-SUFFIX,pornmage.com
   - DOMAIN-SUFFIX,pornmaker.ai
   - DOMAIN-SUFFIX,pornmaki.com
   - DOMAIN-SUFFIX,pornmamas.com
+  - DOMAIN-SUFFIX,pornmanhua.com
   - DOMAIN-SUFFIX,pornmaster.co
   - DOMAIN-SUFFIX,pornmate.com
   - DOMAIN-SUFFIX,pornmate.tv
@@ -11790,7 +11772,6 @@ payload:
   - DOMAIN-SUFFIX,pornmoviespoll.com
   - DOMAIN-SUFFIX,pornmoviesroll.com
   - DOMAIN-SUFFIX,pornmovieszoo.com
-  - DOMAIN-SUFFIX,pornmovieuhd.net
   - DOMAIN-SUFFIX,pornmovsuhd.com
   - DOMAIN-SUFFIX,pornmz.com
   - DOMAIN-SUFFIX,pornmz.net
@@ -12171,6 +12152,7 @@ payload:
   - DOMAIN-SUFFIX,pornpics.gallery
   - DOMAIN-SUFFIX,pornpics.vip
   - DOMAIN-SUFFIX,pornpicsamateur.com
+  - DOMAIN-SUFFIX,pornpicsfolder.com
   - DOMAIN-SUFFIX,pornpictures.pro
   - DOMAIN-SUFFIX,pornpictureshq.com
   - DOMAIN-SUFFIX,pornplan.com
@@ -12215,6 +12197,7 @@ payload:
   - DOMAIN-SUFFIX,pornsliv.com
   - DOMAIN-SUFFIX,pornsnow.net
   - DOMAIN-SUFFIX,pornsnuff.com
+  - DOMAIN-SUFFIX,pornsocket.com
   - DOMAIN-SUFFIX,pornsoda.to
   - DOMAIN-SUFFIX,pornsok.com
   - DOMAIN-SUFFIX,pornsok.org
@@ -12223,7 +12206,6 @@ payload:
   - DOMAIN-SUFFIX,pornspoil.com
   - DOMAIN-SUFFIX,pornstar-scenes.com
   - DOMAIN-SUFFIX,pornstar.gallery
-  - DOMAIN-SUFFIX,pornstarbyface.com
   - DOMAIN-SUFFIX,pornstarfreecams.com
   - DOMAIN-SUFFIX,pornstargold.com
   - DOMAIN-SUFFIX,pornstarharem.com
@@ -12254,7 +12236,6 @@ payload:
   - DOMAIN-SUFFIX,porntn.tube
   - DOMAIN-SUFFIX,porntop.com
   - DOMAIN-SUFFIX,porntop.vip
-  - DOMAIN-SUFFIX,porntoptube.com
   - DOMAIN-SUFFIX,porntotal.com
   - DOMAIN-SUFFIX,porntourist.com
   - DOMAIN-SUFFIX,porntrex.com
@@ -12349,6 +12330,7 @@ payload:
   - DOMAIN-SUFFIX,pornxo.me
   - DOMAIN-SUFFIX,pornxo.xxx
   - DOMAIN-SUFFIX,pornxp.com
+  - DOMAIN-SUFFIX,pornxp.pl
   - DOMAIN-SUFFIX,pornxp.sh
   - DOMAIN-SUFFIX,pornxpert.com
   - DOMAIN-SUFFIX,pornxporn.org
@@ -12397,8 +12379,6 @@ payload:
   - DOMAIN-SUFFIX,ppornn.com
   - DOMAIN-SUFFIX,ppp.porn
   - DOMAIN-SUFFIX,ppvdatabank.com
-  - DOMAIN-SUFFIX,pq12306.com
-  - DOMAIN-SUFFIX,pr12366.com
   - DOMAIN-SUFFIX,pr1cks.com
   - DOMAIN-SUFFIX,praoto.baby
   - DOMAIN-SUFFIX,preciseexc.com
@@ -12461,7 +12441,6 @@ payload:
   - DOMAIN-SUFFIX,probokep.work
   - DOMAIN-SUFFIX,proceedflow.com
   - DOMAIN-SUFFIX,prodigits.co.uk
-  - DOMAIN-SUFFIX,profotofun.com
   - DOMAIN-SUFFIX,progtech-yug.ru
   - DOMAIN-SUFFIX,project1content.com
   - DOMAIN-SUFFIX,projectjav.com
@@ -12667,6 +12646,7 @@ payload:
   - DOMAIN-SUFFIX,rabbitsfun.com
   - DOMAIN-SUFFIX,rabbitsreviews.com
   - DOMAIN-SUFFIX,rabid-rabbit.club
+  - DOMAIN-SUFFIX,rabu.ai
   - DOMAIN-SUFFIX,rachaelcavalli.xxx
   - DOMAIN-SUFFIX,racygayporn.com
   - DOMAIN-SUFFIX,racypoker.com
@@ -12727,7 +12707,6 @@ payload:
   - DOMAIN-SUFFIX,ratemydick.net
   - DOMAIN-SUFFIX,ratemymelons.com
   - DOMAIN-SUFFIX,ratemynaughty.com
-  - DOMAIN-SUFFIX,rathxxxtube.com
   - DOMAIN-SUFFIX,rattic.net
   - DOMAIN-SUFFIX,rawdex.net
   - DOMAIN-SUFFIX,rawfuckclub.com
@@ -12874,7 +12853,6 @@ payload:
   - DOMAIN-SUFFIX,relax-porn.com
   - DOMAIN-SUFFIX,relaxclips.com
   - DOMAIN-SUFFIX,relaxik.org
-  - DOMAIN-SUFFIX,relaxmovs.com
   - DOMAIN-SUFFIX,relaxxxtime.com
   - DOMAIN-SUFFIX,relayblog.com
   - DOMAIN-SUFFIX,remaxhd.center
@@ -12971,6 +12949,7 @@ payload:
   - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,rouva8.xyz
   - DOMAIN-SUFFIX,rouvb1.xyz
+  - DOMAIN-SUFFIX,rouwennp.info
   - DOMAIN-SUFFIX,rov69.com
   - DOMAIN-SUFFIX,rov699.com
   - DOMAIN-SUFFIX,roxporn.me
@@ -12978,7 +12957,6 @@ payload:
   - DOMAIN-SUFFIX,royalcams.com
   - DOMAIN-SUFFIX,royalcamsgay.com
   - DOMAIN-SUFFIX,royalcamslive.com
-  - DOMAIN-SUFFIX,rpcoffeeco.com
   - DOMAIN-SUFFIX,rpgallery.net
   - DOMAIN-SUFFIX,rptb.cn
   - DOMAIN-SUFFIX,rpwmct.com
@@ -13251,7 +13229,6 @@ payload:
   - DOMAIN-SUFFIX,sdfuxiang.com
   - DOMAIN-SUFFIX,sdult.com
   - DOMAIN-SUFFIX,se.video
-  - DOMAIN-SUFFIX,seafucks.com
   - DOMAIN-SUFFIX,seajav.com
   - DOMAIN-SUFFIX,seancody.com
   - DOMAIN-SUFFIX,seaporn.org
@@ -13578,7 +13555,6 @@ payload:
   - DOMAIN-SUFFIX,sexdog.me
   - DOMAIN-SUFFIX,sexdollqueen.com
   - DOMAIN-SUFFIX,sexdolls.cz
-  - DOMAIN-SUFFIX,sexdollsoff.com
   - DOMAIN-SUFFIX,sexdollsyrelatos.com
   - DOMAIN-SUFFIX,sexdolltech.com
   - DOMAIN-SUFFIX,sexdom.mom
@@ -13720,7 +13696,6 @@ payload:
   - DOMAIN-SUFFIX,sexmotors.com
   - DOMAIN-SUFFIX,sexmovies-asian.com
   - DOMAIN-SUFFIX,sexmovies-cove.com
-  - DOMAIN-SUFFIX,sexmovies-gay.com
   - DOMAIN-SUFFIX,sexmovies-hot.com
   - DOMAIN-SUFFIX,sexmovies-japan.com
   - DOMAIN-SUFFIX,sexmovies-keeper.com
@@ -13775,6 +13750,7 @@ payload:
   - DOMAIN-SUFFIX,sexoro.com
   - DOMAIN-SUFFIX,sexosecreto.com
   - DOMAIN-SUFFIX,sexosintabues30.com
+  - DOMAIN-SUFFIX,sexpasslive.com
   - DOMAIN-SUFFIX,sexpebune.com
   - DOMAIN-SUFFIX,sexpester.com
   - DOMAIN-SUFFIX,sexphevkl.blog
@@ -13843,6 +13819,7 @@ payload:
   - DOMAIN-SUFFIX,sexto.mobi
   - DOMAIN-SUFFIX,sextoico.blog
   - DOMAIN-SUFFIX,sextoico.live
+  - DOMAIN-SUFFIX,sextopvl.tv
   - DOMAIN-SUFFIX,sextopz.blog
   - DOMAIN-SUFFIX,sextor.org
   - DOMAIN-SUFFIX,sextotal.net
@@ -13913,7 +13890,6 @@ payload:
   - DOMAIN-SUFFIX,sexvideoscloud.com
   - DOMAIN-SUFFIX,sexvideosguard.com
   - DOMAIN-SUFFIX,sexvideoshot.com
-  - DOMAIN-SUFFIX,sexvideoslead.com
   - DOMAIN-SUFFIX,sexvideosporn.com
   - DOMAIN-SUFFIX,sexvideostelugu.click
   - DOMAIN-SUFFIX,sexvideosxxx.cc
@@ -13987,7 +13963,6 @@ payload:
   - DOMAIN-SUFFIX,sexybuttpics.com
   - DOMAIN-SUFFIX,sexycams.stream
   - DOMAIN-SUFFIX,sexycandidgirls.com
-  - DOMAIN-SUFFIX,sexycandidteens.com
   - DOMAIN-SUFFIX,sexycaracas.com
   - DOMAIN-SUFFIX,sexycarbabes.com
   - DOMAIN-SUFFIX,sexychicas.cl
@@ -14022,7 +13997,6 @@ payload:
   - DOMAIN-SUFFIX,sexyo2.com
   - DOMAIN-SUFFIX,sexyphoto.es
   - DOMAIN-SUFFIX,sexyporn.tv
-  - DOMAIN-SUFFIX,sexypornvideo.vip
   - DOMAIN-SUFFIX,sexypussypic.com
   - DOMAIN-SUFFIX,sexyrealsexdolls.com
   - DOMAIN-SUFFIX,sexyscope.online
@@ -14146,6 +14120,7 @@ payload:
   - DOMAIN-SUFFIX,shoplyfter.com
   - DOMAIN-SUFFIX,shoplyfter1.com
   - DOMAIN-SUFFIX,shortcaption.blog
+  - DOMAIN-SUFFIX,shortfilms.info
   - DOMAIN-SUFFIX,shorts.xxx
   - DOMAIN-SUFFIX,shoujiduoduo.com
   - DOMAIN-SUFFIX,showa-era.info
@@ -14170,7 +14145,6 @@ payload:
   - DOMAIN-SUFFIX,shuqubook.com
   - DOMAIN-SUFFIX,shuwu2025.com
   - DOMAIN-SUFFIX,shuww.cc
-  - DOMAIN-SUFFIX,shuxiangjia.cc
   - DOMAIN-SUFFIX,shwaz69.com
   - DOMAIN-SUFFIX,shweyone666.com
   - DOMAIN-SUFFIX,shxy888.com
@@ -14223,7 +14197,6 @@ payload:
   - DOMAIN-SUFFIX,singleflirtplace.com
   - DOMAIN-SUFFIX,sinhalahub.com
   - DOMAIN-SUFFIX,sinocars.com.cn
-  - DOMAIN-SUFFIX,sinordeniconcierto.com
   - DOMAIN-SUFFIX,sinparty.com
   - DOMAIN-SUFFIX,sinruei-te.com
   - DOMAIN-SUFFIX,sipsap.com
@@ -14277,7 +14250,6 @@ payload:
   - DOMAIN-SUFFIX,sleepyboy.com
   - DOMAIN-SUFFIX,slewporn.com
   - DOMAIN-SUFFIX,slim4k.com
-  - DOMAIN-SUFFIX,slimeporn.com
   - DOMAIN-SUFFIX,slivakoff.com
   - DOMAIN-SUFFIX,slivbek.top
   - DOMAIN-SUFFIX,slivly.cc
@@ -14358,6 +14330,7 @@ payload:
   - DOMAIN-SUFFIX,solopornoitaliani.xxx
   - DOMAIN-SUFFIX,solopornoitaliano.it
   - DOMAIN-SUFFIX,solotouch.com
+  - DOMAIN-SUFFIX,solovixens.com
   - DOMAIN-SUFFIX,some.porn
   - DOMAIN-SUFFIX,someav.com
   - DOMAIN-SUFFIX,someonesister.com
@@ -14459,7 +14432,6 @@ payload:
   - DOMAIN-SUFFIX,squirting.world
   - DOMAIN-SUFFIX,squirtingclips.com
   - DOMAIN-SUFFIX,squirtvideos.com
-  - DOMAIN-SUFFIX,srbam.com
   - DOMAIN-SUFFIX,srculo.com
   - DOMAIN-SUFFIX,srganzo.com
   - DOMAIN-SUFFIX,srpacks.com
@@ -14482,6 +14454,7 @@ payload:
   - DOMAIN-SUFFIX,stboy.net
   - DOMAIN-SUFFIX,steamygamer.com
   - DOMAIN-SUFFIX,steamyplay.com
+  - DOMAIN-SUFFIX,steamytubesex.com
   - DOMAIN-SUFFIX,stelladimokokorkus.com
   - DOMAIN-SUFFIX,stellaplus.xyz
   - DOMAIN-SUFFIX,stepdaughterporn.online
@@ -14495,6 +14468,7 @@ payload:
   - DOMAIN-SUFFIX,stileproject.com
   - DOMAIN-SUFFIX,stmen.men
   - DOMAIN-SUFFIX,stocking-tease.com
+  - DOMAIN-SUFFIX,stojak.club
   - DOMAIN-SUFFIX,stoporn.com
   - DOMAIN-SUFFIX,store18.com
   - DOMAIN-SUFFIX,storiesinmarathi.com
@@ -14650,6 +14624,7 @@ payload:
   - DOMAIN-SUFFIX,sunporno.com
   - DOMAIN-SUFFIX,sunpornos.org
   - DOMAIN-SUFFIX,suomivids.com
+  - DOMAIN-SUFFIX,supektibol.com
   - DOMAIN-SUFFIX,superchat.live
   - DOMAIN-SUFFIX,superchatlive.com
   - DOMAIN-SUFFIX,superfap.icu
@@ -14704,7 +14679,6 @@ payload:
   - DOMAIN-SUFFIX,sweetcams.me
   - DOMAIN-SUFFIX,sweetcherrypops.com
   - DOMAIN-SUFFIX,sweetchinagirls.shop
-  - DOMAIN-SUFFIX,sweetgat.com
   - DOMAIN-SUFFIX,sweetgirlsex.club
   - DOMAIN-SUFFIX,sweetheartslive.com
   - DOMAIN-SUFFIX,sweetheartvideo.com
@@ -14741,7 +14715,6 @@ payload:
   - DOMAIN-SUFFIX,sxypix.com
   - DOMAIN-SUFFIX,sxyprn.com
   - DOMAIN-SUFFIX,sxyprn.net
-  - DOMAIN-SUFFIX,sy-legend.com
   - DOMAIN-SUFFIX,szex.monster
   - DOMAIN-SUFFIX,szex.tube
   - DOMAIN-SUFFIX,szex.xyz
@@ -14865,7 +14838,6 @@ payload:
   - DOMAIN-SUFFIX,teen21.com
   - DOMAIN-SUFFIX,teen99.com
   - DOMAIN-SUFFIX,teenager365.to
-  - DOMAIN-SUFFIX,teenax.com
   - DOMAIN-SUFFIX,teencamvideos.me
   - DOMAIN-SUFFIX,teencumpot.com
   - DOMAIN-SUFFIX,teencunt.net
@@ -14908,6 +14880,7 @@ payload:
   - DOMAIN-SUFFIX,teensporn.cc
   - DOMAIN-SUFFIX,teenstunning.com
   - DOMAIN-SUFFIX,teensyoung.com
+  - DOMAIN-SUFFIX,teentubeonline.com
   - DOMAIN-SUFFIX,teenvaginapics.com
   - DOMAIN-SUFFIX,teenworldsex.com
   - DOMAIN-SUFFIX,teenx.tv
@@ -14918,7 +14891,6 @@ payload:
   - DOMAIN-SUFFIX,teenxy.com
   - DOMAIN-SUFFIX,teenygirlsex.net
   - DOMAIN-SUFFIX,teenyvagina.com
-  - DOMAIN-SUFFIX,teflonbrush.com
   - DOMAIN-SUFFIX,tekjam.com
   - DOMAIN-SUFFIX,tel-sex.cc
   - DOMAIN-SUFFIX,telechapero.com
@@ -15105,12 +15077,10 @@ payload:
   - DOMAIN-SUFFIX,thesexier.net
   - DOMAIN-SUFFIX,thesextube.net
   - DOMAIN-SUFFIX,theshemale.xxx
-  - DOMAIN-SUFFIX,thesmuthub.com
   - DOMAIN-SUFFIX,thesuperporn.com
   - DOMAIN-SUFFIX,thesword.com
   - DOMAIN-SUFFIX,thethothub.com
   - DOMAIN-SUFFIX,thetranny.com
-  - DOMAIN-SUFFIX,theturfnetwork.com
   - DOMAIN-SUFFIX,thetwinks.net
   - DOMAIN-SUFFIX,theworldwatch.com
   - DOMAIN-SUFFIX,thexh.live
@@ -15199,6 +15169,7 @@ payload:
   - DOMAIN-SUFFIX,tiktok18.porn
   - DOMAIN-SUFFIX,tiktokpornstar.com
   - DOMAIN-SUFFIX,time-hand.com
+  - DOMAIN-SUFFIX,timekiller.com
   - DOMAIN-SUFFIX,timtales.com
   - DOMAIN-SUFFIX,ting55.com
   - DOMAIN-SUFFIX,ting95.com
@@ -15216,6 +15187,7 @@ payload:
   - DOMAIN-SUFFIX,titsamateur.com
   - DOMAIN-SUFFIX,titshits.com
   - DOMAIN-SUFFIX,titshub.com
+  - DOMAIN-SUFFIX,titsintops.com
   - DOMAIN-SUFFIX,titspornok.com
   - DOMAIN-SUFFIX,titstvx.com
   - DOMAIN-SUFFIX,titti.co.il
@@ -15277,7 +15249,6 @@ payload:
   - DOMAIN-SUFFIX,tooti.to
   - DOMAIN-SUFFIX,top-chatroulette.com
   - DOMAIN-SUFFIX,top-modelz.org
-  - DOMAIN-SUFFIX,top-xxxmovies.com
   - DOMAIN-SUFFIX,top-xxxvideos.com
   - DOMAIN-SUFFIX,top4fans.com
   - DOMAIN-SUFFIX,topanasex.com
@@ -15356,6 +15327,7 @@ payload:
   - DOMAIN-SUFFIX,trahkino.cc
   - DOMAIN-SUFFIX,trahkino.me
   - DOMAIN-SUFFIX,trahkino.tube
+  - DOMAIN-SUFFIX,trahtv.club
   - DOMAIN-SUFFIX,tram-pararam.com
   - DOMAIN-SUFFIX,tranny-xxx.com
   - DOMAIN-SUFFIX,tranny.one
@@ -15363,7 +15335,6 @@ payload:
   - DOMAIN-SUFFIX,tranny.vip
   - DOMAIN-SUFFIX,trannycamshows.com
   - DOMAIN-SUFFIX,trannyclips.com
-  - DOMAIN-SUFFIX,trannyconnections.com
   - DOMAIN-SUFFIX,trannygem.com
   - DOMAIN-SUFFIX,trannyporn.asia
   - DOMAIN-SUFFIX,trannypower.com
@@ -15382,7 +15353,6 @@ payload:
   - DOMAIN-SUFFIX,transangelsnetwork.com
   - DOMAIN-SUFFIX,transdoe.com
   - DOMAIN-SUFFIX,transecstasy.com
-  - DOMAIN-SUFFIX,transerotica.com
   - DOMAIN-SUFFIX,transexjapan.com
   - DOMAIN-SUFFIX,transexporno.com
   - DOMAIN-SUFFIX,transfap.com
@@ -15422,7 +15392,6 @@ payload:
   - DOMAIN-SUFFIX,trevorjd.com
   - DOMAIN-SUFFIX,trexporn.net
   - DOMAIN-SUFFIX,tribe-led.com
-  - DOMAIN-SUFFIX,tricky-freeporn.com
   - DOMAIN-SUFFIX,trickyoldteacher.com
   - DOMAIN-SUFFIX,trifecta3.net
   - DOMAIN-SUFFIX,trikepatrol.com
@@ -15677,7 +15646,6 @@ payload:
   - DOMAIN-SUFFIX,tyu14.cc
   - DOMAIN-SUFFIX,tyyszy.com
   - DOMAIN-SUFFIX,tz373.com
-  - DOMAIN-SUFFIX,u-on.eu
   - DOMAIN-SUFFIX,u18chan.com
   - DOMAIN-SUFFIX,u3c3.com
   - DOMAIN-SUFFIX,u8888one.baby
@@ -15696,6 +15664,8 @@ payload:
   - DOMAIN-SUFFIX,ufilmizle.com
   - DOMAIN-SUFFIX,uflash.tv
   - DOMAIN-SUFFIX,uflashporn.com
+  - DOMAIN-SUFFIX,uflix.cc
+  - DOMAIN-SUFFIX,uflix.to
   - DOMAIN-SUFFIX,ufoooo.com
   - DOMAIN-SUFFIX,ufym.pro
   - DOMAIN-SUFFIX,ugandanhub.com
@@ -15753,6 +15723,7 @@ payload:
   - DOMAIN-SUFFIX,unclothy.com
   - DOMAIN-SUFFIX,uncut92.one
   - DOMAIN-SUFFIX,uncut99.com
+  - DOMAIN-SUFFIX,uncutadda.org
   - DOMAIN-SUFFIX,uncutbee.top
   - DOMAIN-SUFFIX,uncutcocksblog.com
   - DOMAIN-SUFFIX,uncutdesi2.com
@@ -15778,6 +15749,7 @@ payload:
   - DOMAIN-SUFFIX,undressbaby.com
   - DOMAIN-SUFFIX,undressherapp.org
   - DOMAIN-SUFFIX,uni-hankyu.com.tw
+  - DOMAIN-SUFFIX,unicamtalk.com
   - DOMAIN-SUFFIX,uniquebondage.com
   - DOMAIN-SUFFIX,uniquexxxvideos.com
   - DOMAIN-SUFFIX,uniteddolls.com
@@ -15805,7 +15777,6 @@ payload:
   - DOMAIN-SUFFIX,upornia.net
   - DOMAIN-SUFFIX,upornia.online
   - DOMAIN-SUFFIX,upornia.tube
-  - DOMAIN-SUFFIX,upornme.com
   - DOMAIN-SUFFIX,uporno.xxx
   - DOMAIN-SUFFIX,upskirt.tv
   - DOMAIN-SUFFIX,upskirtcollection.com
@@ -15874,6 +15845,7 @@ payload:
   - DOMAIN-SUFFIX,uzporno.website
   - DOMAIN-SUFFIX,uzpornvideo.ru
   - DOMAIN-SUFFIX,uzseks.top
+  - DOMAIN-SUFFIX,v0d.com
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,v1dz.com
   - DOMAIN-SUFFIX,v2q.com
@@ -15881,7 +15853,6 @@ payload:
   - DOMAIN-SUFFIX,vador.com
   - DOMAIN-SUFFIX,vagabundasdoorkut.net
   - DOMAIN-SUFFIX,vagina.nl
-  - DOMAIN-SUFFIX,vagina4u.com
   - DOMAIN-SUFFIX,vaginapics.net
   - DOMAIN-SUFFIX,vaginke.me
   - DOMAIN-SUFFIX,vagosex.xxx
@@ -16056,7 +16027,6 @@ payload:
   - DOMAIN-SUFFIX,vidio.website
   - DOMAIN-SUFFIX,vidiosex.monster
   - DOMAIN-SUFFIX,vidiosxnxx.com
-  - DOMAIN-SUFFIX,vidizzy.com
   - DOMAIN-SUFFIX,vidmax.com
   - DOMAIN-SUFFIX,vidnest.live
   - DOMAIN-SUFFIX,vidox.net
@@ -16075,7 +16045,6 @@ payload:
   - DOMAIN-SUFFIX,viet69vn.at
   - DOMAIN-SUFFIX,viet69z.me
   - DOMAIN-SUFFIX,viet69z.to
-  - DOMAIN-SUFFIX,vietnhabienhoa.com
   - DOMAIN-SUFFIX,vietsex.blog
   - DOMAIN-SUFFIX,viewgals.com
   - DOMAIN-SUFFIX,viexx.com
@@ -16292,18 +16261,19 @@ payload:
   - DOMAIN-SUFFIX,w1mp.com
   - DOMAIN-SUFFIX,w4nkr.com
   - DOMAIN-SUFFIX,waaw.to
+  - DOMAIN-SUFFIX,wabaihui.com
   - DOMAIN-SUFFIX,wadtube.com
   - DOMAIN-SUFFIX,waifubitches.com
   - DOMAIN-SUFFIX,waifuoverlord.com
   - DOMAIN-SUFFIX,waikeung.net
   - DOMAIN-SUFFIX,waja33xxx.com
   - DOMAIN-SUFFIX,wakeupnfuck.com
+  - DOMAIN-SUFFIX,wallofcelebrities.com
   - DOMAIN-SUFFIX,wanbenku.com
   - DOMAIN-SUFFIX,wanduxiaoshuo.com
   - DOMAIN-SUFFIX,wangtv3.com
   - DOMAIN-SUFFIX,wangy.me
   - DOMAIN-SUFFIX,wangyeming.com
-  - DOMAIN-SUFFIX,wank4all.com
   - DOMAIN-SUFFIX,wankaddicted.com
   - DOMAIN-SUFFIX,wankado.com
   - DOMAIN-SUFFIX,wankboat.com
@@ -16342,7 +16312,6 @@ payload:
   - DOMAIN-SUFFIX,wataa.io
   - DOMAIN-SUFFIX,wataaviral.store
   - DOMAIN-SUFFIX,watch-free-porno.com
-  - DOMAIN-SUFFIX,watch-movies.com.pk
   - DOMAIN-SUFFIX,watch-my-gf.com
   - DOMAIN-SUFFIX,watch-porn.net
   - DOMAIN-SUFFIX,watch4beauty.com
@@ -16524,7 +16493,6 @@ payload:
   - DOMAIN-SUFFIX,winxxxtube.com
   - DOMAIN-SUFFIX,wirexxxtube.com
   - DOMAIN-SUFFIX,witanime.net
-  - DOMAIN-SUFFIX,witchsextube.com
   - DOMAIN-SUFFIX,wlmrkj.com
   - DOMAIN-SUFFIX,wmccd.com
   - DOMAIN-SUFFIX,wmcdpt.com
@@ -16645,7 +16613,6 @@ payload:
   - DOMAIN-SUFFIX,x69.me
   - DOMAIN-SUFFIX,x6av.com
   - DOMAIN-SUFFIX,x6dh.com
-  - DOMAIN-SUFFIX,x99av.com
   - DOMAIN-SUFFIX,xahani.com
   - DOMAIN-SUFFIX,xai.porn
   - DOMAIN-SUFFIX,xaijo.com
@@ -16853,7 +16820,6 @@ payload:
   - DOMAIN-SUFFIX,xhnow.today
   - DOMAIN-SUFFIX,xhofficial.com
   - DOMAIN-SUFFIX,xhomealone.com
-  - DOMAIN-SUFFIX,xhoney.net
   - DOMAIN-SUFFIX,xhopen.com
   - DOMAIN-SUFFIX,xhorno.com
   - DOMAIN-SUFFIX,xhostgirl.com
@@ -16903,7 +16869,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaoshuohai.com
   - DOMAIN-SUFFIX,xiaoshuohu.com
-  - DOMAIN-SUFFIX,xiaoyudaichu.com
   - DOMAIN-SUFFIX,xiaxxx.com
   - DOMAIN-SUFFIX,xideos.net
   - DOMAIN-SUFFIX,xidol.net
@@ -16945,6 +16910,7 @@ payload:
   - DOMAIN-SUFFIX,xlist.gr
   - DOMAIN-SUFFIX,xlivesex.com
   - DOMAIN-SUFFIX,xlivrdr.com
+  - DOMAIN-SUFFIX,xlkuai.com
   - DOMAIN-SUFFIX,xlove.com
   - DOMAIN-SUFFIX,xlove18.com
   - DOMAIN-SUFFIX,xlovecam.com
@@ -16980,6 +16946,7 @@ payload:
   - DOMAIN-SUFFIX,xmeeting.com
   - DOMAIN-SUFFIX,xmegadrive.com
   - DOMAIN-SUFFIX,xmegaporn.top
+  - DOMAIN-SUFFIX,xmfyy.com
   - DOMAIN-SUFFIX,xmidget.com
   - DOMAIN-SUFFIX,xmilf.cc
   - DOMAIN-SUFFIX,xmilf.com
@@ -17282,7 +17249,6 @@ payload:
   - DOMAIN-SUFFIX,xnxxfr.org
   - DOMAIN-SUFFIX,xnxxfree.org
   - DOMAIN-SUFFIX,xnxxfull.net
-  - DOMAIN-SUFFIX,xnxxfullhd.info
   - DOMAIN-SUFFIX,xnxxgo.cc
   - DOMAIN-SUFFIX,xnxxgratis.com
   - DOMAIN-SUFFIX,xnxxhamster.net
@@ -17377,7 +17343,6 @@ payload:
   - DOMAIN-SUFFIX,xpornici.com
   - DOMAIN-SUFFIX,xpornmovs.com
   - DOMAIN-SUFFIX,xporno.blog
-  - DOMAIN-SUFFIX,xporno.fun
   - DOMAIN-SUFFIX,xporno.hu
   - DOMAIN-SUFFIX,xporno.online
   - DOMAIN-SUFFIX,xpornotv.com
@@ -17535,7 +17500,6 @@ payload:
   - DOMAIN-SUFFIX,xvideos47.com
   - DOMAIN-SUFFIX,xvideos5.com
   - DOMAIN-SUFFIX,xvideos5.com.br
-  - DOMAIN-SUFFIX,xvideos5.one
   - DOMAIN-SUFFIX,xvideos51.com
   - DOMAIN-SUFFIX,xvideos53.com
   - DOMAIN-SUFFIX,xvideos61.com
@@ -17578,9 +17542,9 @@ payload:
   - DOMAIN-SUFFIX,xvideosxxx.fun
   - DOMAIN-SUFFIX,xvideosxxx.net
   - DOMAIN-SUFFIX,xvideosxxx.win
+  - DOMAIN-SUFFIX,xvideovn.com
   - DOMAIN-SUFFIX,xvideox.club
   - DOMAIN-SUFFIX,xvideoz.cloud
-  - DOMAIN-SUFFIX,xvideoz.mobi
   - DOMAIN-SUFFIX,xvideoz.pro
   - DOMAIN-SUFFIX,xvideoz.win
   - DOMAIN-SUFFIX,xvidio.blog.br
@@ -17727,6 +17691,7 @@ payload:
   - DOMAIN-SUFFIX,xxxbold.com
   - DOMAIN-SUFFIX,xxxbold.live
   - DOMAIN-SUFFIX,xxxbolivianas.com
+  - DOMAIN-SUFFIX,xxxbonk.com
   - DOMAIN-SUFFIX,xxxboy.pro
   - DOMAIN-SUFFIX,xxxbp.pro
   - DOMAIN-SUFFIX,xxxbp.tv
@@ -17759,7 +17724,6 @@ payload:
   - DOMAIN-SUFFIX,xxxcore.tv
   - DOMAIN-SUFFIX,xxxcrazywomenxxx.com
   - DOMAIN-SUFFIX,xxxculonas.com
-  - DOMAIN-SUFFIX,xxxcumhub.com
   - DOMAIN-SUFFIX,xxxdan.com
   - DOMAIN-SUFFIX,xxxdbx.com
   - DOMAIN-SUFFIX,xxxdd.net
@@ -17794,6 +17758,7 @@ payload:
   - DOMAIN-SUFFIX,xxxgayboys.icu
   - DOMAIN-SUFFIX,xxxgaysporno.com
   - DOMAIN-SUFFIX,xxxgaystube.click
+  - DOMAIN-SUFFIX,xxxgic.com
   - DOMAIN-SUFFIX,xxxhamster.club
   - DOMAIN-SUFFIX,xxxhay.tv
   - DOMAIN-SUFFIX,xxxhdhindi.com
@@ -17827,7 +17792,6 @@ payload:
   - DOMAIN-SUFFIX,xxxindianporn2.com
   - DOMAIN-SUFFIX,xxxip.cam
   - DOMAIN-SUFFIX,xxxivjmp.com
-  - DOMAIN-SUFFIX,xxxjapanmovies.shop
   - DOMAIN-SUFFIX,xxxjavporn.com
   - DOMAIN-SUFFIX,xxxjets.com
   - DOMAIN-SUFFIX,xxxjmp.com
@@ -17861,6 +17825,7 @@ payload:
   - DOMAIN-SUFFIX,xxxmovies-plus.com
   - DOMAIN-SUFFIX,xxxmovies.life
   - DOMAIN-SUFFIX,xxxmovies.su
+  - DOMAIN-SUFFIX,xxxmoviescover.com
   - DOMAIN-SUFFIX,xxxmoviesdl.com
   - DOMAIN-SUFFIX,xxxmoviesdownload.net
   - DOMAIN-SUFFIX,xxxmoviesfiery.com
@@ -17948,6 +17913,7 @@ payload:
   - DOMAIN-SUFFIX,xxxtube-prize.com
   - DOMAIN-SUFFIX,xxxtube-prof.com
   - DOMAIN-SUFFIX,xxxtube-run.com
+  - DOMAIN-SUFFIX,xxxtube-side.com
   - DOMAIN-SUFFIX,xxxtube-spot.com
   - DOMAIN-SUFFIX,xxxtube-videos.com
   - DOMAIN-SUFFIX,xxxtube-win.com
@@ -17966,7 +17932,6 @@ payload:
   - DOMAIN-SUFFIX,xxxtubecove.com
   - DOMAIN-SUFFIX,xxxtubedeal.com
   - DOMAIN-SUFFIX,xxxtubedot.com
-  - DOMAIN-SUFFIX,xxxtubefat.com
   - DOMAIN-SUFFIX,xxxtubefuck.click
   - DOMAIN-SUFFIX,xxxtubegain.com
   - DOMAIN-SUFFIX,xxxtubegate.com
@@ -17985,7 +17950,6 @@ payload:
   - DOMAIN-SUFFIX,xxxtubesign.com
   - DOMAIN-SUFFIX,xxxtubestock.com
   - DOMAIN-SUFFIX,xxxtubestream.com
-  - DOMAIN-SUFFIX,xxxtubesum.com
   - DOMAIN-SUFFIX,xxxtubeteens.com
   - DOMAIN-SUFFIX,xxxtubevideos.click
   - DOMAIN-SUFFIX,xxxtubewiki.com
@@ -18128,6 +18092,7 @@ payload:
   - DOMAIN-SUFFIX,yescams.vip
   - DOMAIN-SUFFIX,yesdesi.com
   - DOMAIN-SUFFIX,yeshex.com
+  - DOMAIN-SUFFIX,yesmaal.cc
   - DOMAIN-SUFFIX,yesmomporn.com
   - DOMAIN-SUFFIX,yesporn.cam
   - DOMAIN-SUFFIX,yesporn.stream
@@ -18227,6 +18192,7 @@ payload:
   - DOMAIN-SUFFIX,yqcjmx.com
   - DOMAIN-SUFFIX,yrprno.com
   - DOMAIN-SUFFIX,ys508.com
+  - DOMAIN-SUFFIX,ysapak.com
   - DOMAIN-SUFFIX,ysexchat.com
   - DOMAIN-SUFFIX,ytboob.live
   - DOMAIN-SUFFIX,ytxinchangda.com
@@ -18288,6 +18254,7 @@ payload:
   - DOMAIN-SUFFIX,zexvids.com
   - DOMAIN-SUFFIX,zeyvid.com
   - DOMAIN-SUFFIX,zflas.com
+  - DOMAIN-SUFFIX,zgjiemeng.com
   - DOMAIN-SUFFIX,zgjlgr.com
   - DOMAIN-SUFFIX,zh-cn-wynn.com
   - DOMAIN-SUFFIX,zh-dragon.com
@@ -18409,7 +18376,6 @@ payload:
   - DOMAIN-SUFFIX,zteenporn.com
   - DOMAIN-SUFFIX,ztube.org
   - DOMAIN-SUFFIX,ztxxx.com
-  - DOMAIN-SUFFIX,zucchiniporn.com
   - DOMAIN-SUFFIX,zujutv.cc
   - DOMAIN-SUFFIX,zukho.com
   - DOMAIN-SUFFIX,zutumov.cc
@@ -18428,4 +18394,3 @@ payload:
   - DOMAIN-SUFFIX,zzxxtra.com
   - DOMAIN-SUFFIX,zzztube.com
   - DOMAIN-SUFFIX,zzztube.tv
-  - DOMAIN-SUFFIX,zzzxs.cc
