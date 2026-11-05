@@ -1,9 +1,9 @@
-# Version: 202611050206
+# Version: 202611051033
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 18351
-# Last modified: 2026-11-05T02:06:18+0000
+# Entries: 18355
+# Last modified: 2026-11-05T10:33:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1629,6 +1629,7 @@ payload:
   - DOMAIN-SUFFIX,bad.news
   - DOMAIN-SUFFIX,bad24x7.com
   - DOMAIN-SUFFIX,bad720p.com
+  - DOMAIN-SUFFIX,badalarm.com
   - DOMAIN-SUFFIX,badbox.in
   - DOMAIN-SUFFIX,baddiehub.com
   - DOMAIN-SUFFIX,baddielatina.com
@@ -5858,6 +5859,7 @@ payload:
   - DOMAIN-SUFFIX,giochiporno.net
   - DOMAIN-SUFFIX,girl-atlas.com
   - DOMAIN-SUFFIX,girl-rape.com
+  - DOMAIN-SUFFIX,girl4chat.com
   - DOMAIN-SUFFIX,girlanalsex.com
   - DOMAIN-SUFFIX,girlawy.com
   - DOMAIN-SUFFIX,girlcum.com
@@ -15313,6 +15315,7 @@ payload:
   - DOMAIN-SUFFIX,trannycamshows.com
   - DOMAIN-SUFFIX,trannyclips.com
   - DOMAIN-SUFFIX,trannygem.com
+  - DOMAIN-SUFFIX,trannyhub.net
   - DOMAIN-SUFFIX,trannyporn.asia
   - DOMAIN-SUFFIX,trannypower.com
   - DOMAIN-SUFFIX,trannysex.top
@@ -16562,6 +16565,7 @@ payload:
   - DOMAIN-SUFFIX,x-cam2.com
   - DOMAIN-SUFFIX,x-cam4.com
   - DOMAIN-SUFFIX,x-change.life
+  - DOMAIN-SUFFIX,x-chaturbate.ru
   - DOMAIN-SUFFIX,x-fetish.tube
   - DOMAIN-SUFFIX,x-glamour.com
   - DOMAIN-SUFFIX,x-hd.video
